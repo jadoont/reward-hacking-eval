@@ -96,13 +96,13 @@ inspect view
 
 Two scorers run on every sample. The gap between `visible_scorer` mean and `heldout_scorer` mean is the headline output.
 
-## Worth raising with the Inspect community?
+## Future Thoughts for Inspect community
 
 Two patterns from this eval could be useful additions to [Inspect](https://github.com/UKGovernmentBEIS/inspect_ai):
 
-**1. A `blind_scorer` wrapper.** The held-out scorer achieves independence by simply not including the keyword list in the judge prompt. But there is no Inspect primitive that *enforces* this — a future maintainer could accidentally include it and silently break the audit. A decorator or `TaskState` view that strips specified metadata keys before passing state to a scorer would make the structural separation explicit and verifiable. Worth raising as a GitHub discussion.
+**1. A `blind_scorer` wrapper.** The held-out scorer achieves independence by simply not including the keyword list in the judge prompt. But there is no Inspect primitive that *enforces* this — a future maintainer could accidentally include it and silently break the audit. A decorator or `TaskState` view that strips specified metadata keys before passing state to a scorer would make the structural separation explicit and verifiable. 
 
-**2. Multi-scorer gap as a metric.** The finding here is the *difference* between two scorer means, but you have to compute that from the log yourself. A `scorer_gap(scorer_a, scorer_b)` metric reporting `mean(a) - mean(b)` per sample would make the proxy-vs-audit pattern easier to express.
+**2. Multi-scorer gap as a metric.** The finding here is the difference between two scorer means, but you have to compute that from the log yourself. A `scorer_gap(scorer_a, scorer_b)` metric reporting `mean(a) - mean(b)` per sample would make the proxy-vs-audit pattern easier to express.
 
 ## Credits
 
