@@ -1,0 +1,2 @@
+inspect_ai>=0.3.249
+anthropic>=0.40.0   # Inspect doesn't auto-install provider SDKs
