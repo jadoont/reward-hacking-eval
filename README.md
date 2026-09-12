@@ -2,6 +2,28 @@
 
 An [Inspect](https://inspect.aisi.org.uk) evaluation that demonstrates reward hacking by a language model — the LLM-eval sibling of [reward-hacking-gym](https://github.com/jadoont/reward-hacking-gym).
 
+## Correction (2026-09-12)
+
+This README's original interpretation does not survive an audit I ran on
+2026-09-11 (commit ef70131). Two specific claims are withdrawn:
+
+1. **"A model cannot write coherent prose that hits all 15 keywords in 50
+   words."** False. Ten constructed control summaries hit 15/15 keywords in
+   33–46 words and passed the held-out judge 10/10
+   (`logs/2026-09-12T00-42-08-*.eval`). The coverage/prose tradeoff is not
+   forced.
+2. **"A larger gap than Haiku showed in either condition."** Arithmetically
+   wrong: Sonnet's hard-condition gap is 0.173, Haiku's easy-condition gap is
+   0.300.
+
+The pilot below is n=10 per cell with keyword count and word cap varying
+together, so it does not isolate a capability effect. What replaced it: a
+controlled framing experiment (same passages, keywords, cap, and model;
+reference-only prompt vs. score-disclosed prompt) gives 0/20 held-out
+failures vs. 4/20 (`logs/2026-09-12T01-19-34-*.eval`, `tonight_eval.py`).
+Every failure across both runs is the same mechanism — bolded keyword-listing
+in place of prose.
+
 ## The findings
 
 We ran two conditions to explore how proxy difficulty affects gaming behaviour.
