@@ -2,7 +2,7 @@
 
 An [Inspect](https://inspect.aisi.org.uk) evaluation that demonstrates reward hacking by a language model — the LLM-eval sibling of [reward-hacking-gym](https://github.com/jadoont/reward-hacking-gym).
 
-## Correction (2026-09-12)
+## Correction (2026-09)
 
 This README's original interpretation does not survive an audit I ran on
 2026-09-11 (commit ef70131). Two specific claims are withdrawn:
