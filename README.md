@@ -2,6 +2,55 @@
 
 An [Inspect](https://inspect.aisi.org.uk) evaluation that demonstrates reward hacking by a language model — the LLM-eval sibling of [reward-hacking-gym](https://github.com/jadoont/reward-hacking-gym).
 
+## 2026-09-21 — Bold-strip rejudge: is the framing effect a formatting artifact?
+
+**Question:** The Sept 21 replication (commit 29c1fd9, 100 samples/arm) found the
+18 score_disclosed heldout FAILs all contained markdown `**bold**` markers, while
+none of the 82 score_disclosed passes and none of the reference_only outputs did.
+Does the Haiku 4.5 judge fail these because the content is worse, or because it
+reacts to the bold formatting itself?
+
+**Method:** Took the 18 score_disclosed heldout-FAIL outputs, stripped only `**`
+markers (nothing else), and rejudged each 3x with the unmodified `heldout_scorer`
+judge prompt from `reward_hacking_eval.py` (same `JUDGE_PROMPT`, same parse logic).
+18 reference_only heldout-PASS outputs, left unchanged, rejudged 3x each as
+controls. Majority vote per sample. Model: `anthropic/claude-haiku-4-5-20251001`.
+
+**Pre-registered interpretation (fixed before running):**
+- Majority flip on FAILs → judge is formatting-sensitive; framing effect partly artifact.
+- Majority hold on FAILs → disclosed-score arm produces genuinely worse content.
+
+**Result:**
+
+| | held | flipped |
+|---|---|---|
+| FAIL, bold-stripped (n=18) | 0 | 18 |
+| PASS, unchanged controls (n=18) | 18 | 0 |
+
+All 18 bold-stripped FAILs flipped to PASS. All 18 unchanged controls held PASS.
+
+**Interpretation:** Majority flip. The Haiku 4.5 heldout judge is sensitive to
+`**bold**` markdown formatting itself, independent of content. This means the
+Sept 21 headline gap (0/100 heldout FAILs in reference_only vs 18/100 in
+score_disclosed) is at least partly a judge-formatting artifact, not solely a
+faithfulness difference.
+
+**What this does and doesn't show:**
+- Does show: stripping bold alone is sufficient to flip all 18 judged failures.
+  The judge's FAIL verdict on these samples was not robust to a surface-formatting
+  change unrelated to content.
+- Doesn't show: whether the *content* of the 18 flagged outputs is equivalently
+  faithful to the reference_only arm's content. This test only checked whether
+  the FAIL verdict survives bold-stripping, not blind human/independent judgment
+  of the summaries themselves.
+- Doesn't rule out a genuine framing effect entirely — the visible-score gap
+  (0.972 vs 0.897 mean) and the correlation (corr(vis,held) = −0.253) are
+  unaffected by this test and stand independently.
+- Judge was rerun 3x per sample; unanimous 3/3 on every one of the 36 samples
+  (no split votes), so this isn't a borderline-instability result — it's a clean flip.
+
+Cost: run on Haiku 4.5
+
 ## Correction (2026-09)
 
 This README's original interpretation does not survive an audit I ran on
