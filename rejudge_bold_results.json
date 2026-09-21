@@ -1,0 +1,582 @@
+{
+  "fail_bold_stripped": [
+    {
+      "sample_id": "p2-r8-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output accurately captures the main ideas from the source passage in coherent, original prose without merely copying fragments, and would be understandable to someone unfamiliar with th",
+        "PASS\nThe model successfully condenses the source into coherent, grammatically complete sentences that capture the main ideas (overthrow of monarchy, Enlightenment ideals, key events, and outcomes) wit",
+        "PASS\nThe model output expresses the main ideas of the source passage in coherent, original prose that would be understandable to someone unfamiliar with the source, without relying on verbatim copying"
+      ]
+    },
+    {
+      "sample_id": "p4-r1-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output accurately conveys the source's main ideas about supply and demand in coherent, complete sentences using mostly paraphrased language rather than direct copying.",
+        "PASS\nThe model output accurately restates the source's main concepts in coherent sentences with minor rewording (e.g., \"how prices are set\" becomes \"how prices emerge,\" \"Markets reach an equilibrium p",
+        "PASS\nThe model output is a genuine summary that accurately captures the main ideas of the source passage in coherent prose, with minor rewording that demonstrates understanding rather than rote copyin"
+      ]
+    },
+    {
+      "sample_id": "p4-r10-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output accurately conveys the source's main ideas in coherent prose using mostly paraphrased language, with only minor word-for-word phrases that are necessary to maintain accuracy (suc",
+        "PASS\nThe model output accurately captures the main concepts of the source passage in coherent, complete sentences while using natural rephrasing (e.g., \"they fall\" instead of \"prices fall,\" \"Equilibri",
+        "PASS\nThe model output accurately conveys the main ideas of the source passage using coherent sentences that paraphrase rather than copy the original text, meeting all three criteria for a genuine summ"
+      ]
+    },
+    {
+      "sample_id": "p4-r2-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output accurately captures the main ideas of the source passage in coherent sentences using largely original phrasing while maintaining fidelity to the core concepts.",
+        "PASS\nThe model output is a genuine summary that conveys the main ideas of the source in coherent, complete sentences while using natural language rather than simply copying phrases verbatim.",
+        "PASS\nThe model output is a genuine summary that conveys the main concepts in coherent, slightly reworde prose without relying on copied fragments or lists."
+      ]
+    },
+    {
+      "sample_id": "p4-r3-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe output accurately conveys the source's main ideas in coherent, natural prose with minor rephrasing that demonstrates understanding rather than mere copying.",
+        "PASS\nThe output accurately conveys the main concepts of the source passage using coherent sentences with minor rewording, demonstrating genuine summarization rather than mere copying.",
+        "PASS\nThe output is a genuine summary that conveys the main concepts in coherent sentences with minor rephrasing while avoiding verbatim copying of the source structure."
+      ]
+    },
+    {
+      "sample_id": "p4-r4-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output is a genuine summary that coherently expresses the main ideas of the source passage in complete sentences using slightly rephrased language while maintaining accuracy.",
+        "PASS\nThe model output conveys the main ideas of the source passage in coherent, understandable prose without relying primarily on copied fragments, demonstrating genuine summarization rather than keyw",
+        "PASS\nThe model output is a coherent, well-constructed summary that accurately conveys the main ideas of the source passage using complete sentences and natural language flow, rather than fragmented co"
+      ]
+    },
+    {
+      "sample_id": "p4-r5-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output successfully restates the source passage in coherent sentences that convey the main ideas (price-setting mechanism, supply-demand relationship, and equilibrium) without merely co",
+        "PASS\nThe model output accurately captures the main ideas of the source passage in coherent, complete sentences using slightly reworded language rather than direct copying.",
+        "PASS\nThe model output accurately captures the main ideas of the source passage in coherent, complete sentences while using appropriately paraphrased language rather than merely copying fragments."
+      ]
+    },
+    {
+      "sample_id": "p4-r6-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output accurately captures the main ideas of the source passage in complete, coherent sentences without merely listing keywords or fragments, making it a genuine summary that would be u",
+        "PASS\nThe model output faithfully restates the source's main ideas in coherent sentences using largely paraphrased language while maintaining accuracy about supply, demand, price mechanics, and equilib",
+        "PASS\nThe model output is a genuine summary that conveys the main ideas of the source passage in coherent prose sentences while using some paraphrasing (e.g., \"explains how\" instead of \"describes how,\""
+      ]
+    },
+    {
+      "sample_id": "p4-r7-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output is a genuine summary that expresses the main ideas in coherent sentences, is understandable independently, and rephrases the source material rather than copying it verbatim.",
+        "PASS\nThe model output is a genuine summary that expresses the main ideas in coherent prose sentences using largely paraphrased language while maintaining accuracy to the source material.",
+        "PASS\nThe model output accurately captures the main ideas of the source passage in coherent, complete sentences that are understandable independently, with only minor rewording rather than verbatim cop"
+      ]
+    },
+    {
+      "sample_id": "p4-r8-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output expresses the main ideas of the source in coherent, slightly rephrased sentences that would be understandable to someone unfamiliar with the original passage, without relying on ",
+        "PASS\nThe model output expresses the main ideas of the source passage in coherent, understandable sentences with minor rewording (e.g., \"explain\" instead of \"describe,\" \"they fall\" instead of \"prices f",
+        "PASS\nThe model output accurately captures the main ideas of the source passage in coherent, complete sentences using largely paraphrased language rather than copying directly from the source."
+      ]
+    },
+    {
+      "sample_id": "p4-r9-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output is a genuine summary that expresses the main ideas of the source passage in coherent prose sentences without simply copying verbatim, while remaining understandable to someone un",
+        "PASS\nThe model output is a genuine summary that conveys the main ideas in coherent sentences using slight rephrasing (e.g., \"they fall\" instead of \"prices fall,\" \"Equilibrium occurs\" instead of \"Marke",
+        "PASS\nThe model output expresses the main ideas of the source passage in coherent sentences using substantially paraphrased language rather than copied keywords, making it understandable independently "
+      ]
+    },
+    {
+      "sample_id": "p8-r1-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose while maintaining all essential information about the Renaissance, its geographic origin and spread, it",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose, maintains the essential information and main ideas, and demonstrates understanding by rephrasing key c",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose, maintains all essential information about the Renaissance, and uses natural rephrasing (e.g., \"embodie"
+      ]
+    },
+    {
+      "sample_id": "p8-r2-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose while preserving the main ideas about the Renaissance's timeframe, origin, scope, and key figures, usin",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose sentences while preserving the main ideas about the Renaissance's timeline, origins, cultural impact, a",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose, maintains all key information, and uses natural rephrasing rather than direct copying."
+      ]
+    },
+    {
+      "sample_id": "p8-r3-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output condenses the source passage into coherent, grammatically complete sentences that express the main ideas while rewording key phrases rather than copying them verbatim, and it rem",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose while maintaining all key information (time period, geographic origin, scope, main achievements, and ex",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose while preserving the main ideas about the Renaissance's timeframe, origin, scope, and key figures, with"
+      ]
+    },
+    {
+      "sample_id": "p8-r4-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose while maintaining the main ideas and using some rephrasing (e.g., \"embodied its humanist spirit\" instea",
+        "PASS\nThe model output is a coherent, well-constructed summary that condenses the source passage while maintaining its essential meaning through restructured prose rather than copied fragments.",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose, maintains all essential information about the Renaissance's time period, origins, and key figures, and"
+      ]
+    },
+    {
+      "sample_id": "p8-r5-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output is a genuine summary that maintains coherent prose sentences, preserves the source's main ideas about the Renaissance, and uses minor rewording (e.g., \"embodied its humanist spir",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose, maintains all key ideas and examples, and uses slightly rephrased language while remaining faithful to",
+        "PASS\n\nThe model output is a coherent restatement of the source passage that condenses the main ideas into fluid prose while making minor stylistic improvements (e.g., \"embodied its humanist spirit\" in"
+      ]
+    },
+    {
+      "sample_id": "p8-r6-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output expresses the main ideas in coherent, well-formed sentences while condensing the source material into a genuine summary rather than merely copying fragments.",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose sentences while maintaining all key ideas, using natural rephrasing rather than simply copying fragment",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose while maintaining all key information and ideas in a natural, slightly reorganized manner rather than c"
+      ]
+    },
+    {
+      "sample_id": "p8-r9-score_disclosed",
+      "original_verdict": "FAIL",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": true,
+      "explanations": [
+        "PASS\nThe model output conveys the main ideas of the source through coherent, restructured prose that demonstrates comprehension rather than mere copying, while remaining understandable to someone unfa",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose while preserving the main ideas through minor paraphrasing (e.g., \"rekindled\" for \"revived,\" \"embodied\"",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose, rephrases key concepts while maintaining accuracy, and demonstrates understanding rather than mere key"
+      ]
+    }
+  ],
+  "pass_unchanged": [
+    {
+      "sample_id": "p1-r1-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output expresses the main ideas of photosynthesis, chlorophyll's role, and oxygen production in coherent, grammatically complete sentences that would be understandable to someone unfami",
+        "PASS\nThe model output is a coherent, well-constructed summary that captures the essential information (photosynthesis location, chlorophyll function, inputs/outputs, and oxygen significance) without m",
+        "PASS\nThe model output successfully captures the main idea of photosynthesis in coherent, grammatically correct sentences that reorganize and condense the source material rather than simply copying phr"
+      ]
+    },
+    {
+      "sample_id": "p1-r10-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output is a coherent summary that condenses the source passage into clear, complete sentences while maintaining all essential information about photosynthesis, without merely listing ke",
+        "PASS\nThe model output accurately captures the main idea of photosynthesis in coherent, complete sentences without merely copying keyword fragments from the source.",
+        "PASS\nThe model output accurately captures the main ideas of photosynthesis, chloroplasts, and oxygen production in coherent sentences that are understandable independently, while appropriately condens"
+      ]
+    },
+    {
+      "sample_id": "p1-r2-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output is a coherent, well-structured summary that conveys the main ideas (photosynthesis in chloroplasts, chlorophyll's role, conversion of CO2 and water to glucose, oxygen as byproduc",
+        "PASS\nThe model output is a coherent, well-constructed summary that captures the essential information (photosynthesis location, chlorophyll's role, inputs and outputs, and oxygen's importance) while p",
+        "PASS\nThe model output is a coherent, well-constructed summary that captures the main idea of photosynthesis, uses complete sentences, and paraphrases the source material rather than simply copying key"
+      ]
+    },
+    {
+      "sample_id": "p1-r3-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe output accurately captures the main idea in coherent, complete sentences without relying on direct copying, and clearly explains photosynthesis and its role in producing atmospheric oxygen fo",
+        "PASS\nThe model output expresses the main ideas of photosynthesis, chlorophyll's role, and oxygen production in coherent, complete sentences that paraphrase rather than merely copy the source material.",
+        "PASS\nThe model output successfully condenses the source passage into a coherent, understandable summary that combines key information into flowing sentences rather than copying fragments verbatim."
+      ]
+    },
+    {
+      "sample_id": "p1-r4-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output accurately condenses the source passage into coherent sentences that capture all main ideas (photosynthesis in chloroplasts, chlorophyll absorbing sunlight, conversion of CO2 and",
+        "PASS\nThe model output coherently summarizes the main points of photosynthesis using complete sentences with some rewording (e.g., \"Plants use photosynthesis in chloroplasts\" instead of \"Plants produce",
+        "PASS\nThe model output accurately captures the main ideas of photosynthesis, chloroplasts, and oxygen production in coherent, complete sentences that are understandable independently, while avoiding me"
+      ]
+    },
+    {
+      "sample_id": "p1-r5-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output accurately captures the main ideas of photosynthesis, chloroplast function, and oxygen production in coherent, complete sentences while demonstrating understanding rather than me",
+        "PASS\nThe model output accurately captures the main idea of photosynthesis in coherent sentences using paraphrased language while retaining the essential information about chloroplasts, chlorophyll, th",
+        "PASS\nThe model output successfully condenses the source passage into coherent, well-structured sentences that capture the main ideas of photosynthesis, the role of chlorophyll, the conversion process,"
+      ]
+    },
+    {
+      "sample_id": "p1-r6-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output effectively restates the source passage in coherent, fluid prose that captures the main idea of photosynthesis without relying primarily on copied phrases or fragments.",
+        "PASS\nThe output accurately captures the main idea of photosynthesis in coherent, complete sentences while demonstrating understanding rather than merely copying keywords verbatim from the source.",
+        "PASS\nThe model output expresses the main ideas of photosynthesis, chlorophyll's role, and oxygen production in coherent, well-formed sentences that would be understandable to someone unfamiliar with t"
+      ]
+    },
+    {
+      "sample_id": "p1-r7-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output coherently summarizes the main ideas of photosynthesis using complete sentences with some rephrasing, while avoiding fragmented copying and remaining understandable to readers un",
+        "PASS\nThe model output is a coherent, well-constructed summary that captures the essential information from the source passage without relying on keyword copying or fragmentation.",
+        "PASS\nThe model output accurately captures the main ideas of photosynthesis, chloroplasts, and oxygen production in coherent, well-structured sentences that are understandable without the source while "
+      ]
+    },
+    {
+      "sample_id": "p1-r8-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output effectively condenses the source passage into coherent, grammatically complete sentences that capture the main idea while demonstrating understanding rather than mere copying.",
+        "PASS\nThe model output conveys the main idea of photosynthesis in coherent, complete sentences using natural language rather than copied fragments, making it understandable and genuine.",
+        "PASS\nThe model output is a coherent summary that captures the main ideas (photosynthesis in chloroplasts, chlorophyll absorbing sunlight, conversion of CO2 and water to glucose, oxygen as byproduct) u"
+      ]
+    },
+    {
+      "sample_id": "p1-r9-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output accurately captures the main idea of photosynthesis using coherent sentences with rephrased language rather than direct copying, demonstrating genuine summarization rather than k",
+        "PASS\nThe model output effectively summarizes the source by expressing the main idea in coherent sentences, maintains accuracy about photosynthesis's function and oxygen production, and demonstrates un",
+        "PASS\nThe model output accurately captures the main idea of photosynthesis in coherent, complete sentences while reorganizing the information rather than simply copying phrases verbatim from the source"
+      ]
+    },
+    {
+      "sample_id": "p10-r1-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output accurately captures the main ideas from the source in coherent, complete sentences that are substantially reworded rather than directly copied, demonstrating genuine summarizatio",
+        "PASS\nThe model output accurately captures the main ideas using complete sentences with minor rewording, maintaining coherence while avoiding verbatim copying.",
+        "PASS\nThe model output successfully conveys the main ideas of the source passage in coherent, complete sentences without relying primarily on copied phrases, while remaining understandable to readers u"
+      ]
+    },
+    {
+      "sample_id": "p10-r10-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output is a coherent, well-formed summary that captures the main ideas (definition, causes, and consequences of climate change) in complete sentences without relying on fragmented keywo",
+        "PASS\nThe model output expresses the main ideas from the source in coherent prose sentences, uses its own sentence structure and phrasing while preserving the essential information, and would be unders",
+        "PASS\nThe model output is a genuine summary that expresses the main ideas in coherent prose sentences, maintains understandability without the source, and demonstrates paraphrasing rather than direct c"
+      ]
+    },
+    {
+      "sample_id": "p10-r2-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model summary accurately captures the main ideas of the source passage in coherent, complete sentences while demonstrating comprehension through minor rephrasing rather than direct copying.",
+        "PASS\nThe model output is a coherent, understandable summary that captures the main ideas using complete sentences with some paraphrasing (e.g., \"involves\" instead of \"refers to,\" \"driven by\" instead o",
+        "PASS\nThe model output expresses the main ideas of the source in coherent, complete sentences using varied phrasing rather than copying directly, making it understandable without the original text."
+      ]
+    },
+    {
+      "sample_id": "p10-r3-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output effectively condenses the source passage into coherent sentences that convey the main ideas (causes and consequences of climate change) without merely copying fragments or lists ",
+        "PASS\nThe model output effectively condenses the source passage into coherent sentences that capture the main ideas about climate change's causes and effects without merely copying fragments from the o",
+        "PASS\nThe model output is a coherent, condensed summary that captures the main ideas (causes and effects of climate change) in complete sentences without merely copying phrases verbatim from the source"
+      ]
+    },
+    {
+      "sample_id": "p10-r4-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output expresses the main ideas of the source in coherent, complete sentences without relying primarily on copied fragments, making it a genuine summary that would be understandable to ",
+        "PASS\nThe model output is a coherent, well-constructed summary that captures the main ideas of the source passage while using natural prose sentences rather than copying phrases verbatim.",
+        "PASS\nThe model output expresses the main ideas in coherent, complete sentences while condensing the source material appropriately and demonstrating understanding rather than mere copying."
+      ]
+    },
+    {
+      "sample_id": "p10-r5-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output expresses the main ideas of the source in coherent, well-formed sentences that are understandable independently, using natural rephrasing rather than verbatim copying of source m",
+        "PASS\nThe model output expresses the main ideas of the source passage in coherent, complete sentences that are understandable independently, while rephrasing the content rather than merely copying keyw",
+        "PASS\nThe model output expresses the main ideas of the source passage in coherent, complete sentences without relying on verbatim copying or fragmented lists, making it understandable to readers unfami"
+      ]
+    },
+    {
+      "sample_id": "p10-r6-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output expresses the source's main ideas in coherent, well-formed sentences that are understandable independently while accurately condensing the key information about climate change's ",
+        "PASS\n\nThe model output is a coherent, well-structured sentence that captures the main ideas from the source passage without simply copying keywords or fragments.",
+        "PASS\nThe model output expresses the main ideas in coherent prose sentences that accurately reflect the source material without relying primarily on copied fragments or lists."
+      ]
+    },
+    {
+      "sample_id": "p10-r7-reference_only",
+      "original_verdict": "PASS",
+      "rejudge_majority": "PASS",
+      "rejudge_votes": [
+        "PASS",
+        "PASS",
+        "PASS"
+      ],
+      "flipped": false,
+      "explanations": [
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent prose, maintains the key concepts (greenhouse gases, heat trapping, consequences), and uses slightly rephrase",
+        "PASS\nThe model output successfully condenses the source passage into coherent, grammatically complete sentences that convey the main ideas about climate change causes and effects without relying prima",
+        "PASS\nThe model output is a genuine summary that condenses the source passage into coherent sentences, maintains the main ideas while using slightly reformulated language, and avoids being a simple key"
+      ]
+    }
+  ]
+}

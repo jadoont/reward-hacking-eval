@@ -1,0 +1,50 @@
+Rejudging 18 FAIL samples (bold-stripped), model=anthropic/claude-haiku-4-5-20251001...
+  p2-r8-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p4-r1-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p4-r10-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p4-r2-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p4-r3-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p4-r4-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p4-r5-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p4-r6-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p4-r7-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p4-r8-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p4-r9-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p8-r1-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p8-r2-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p8-r3-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p8-r4-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p8-r5-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p8-r6-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+  p8-r9-score_disclosed: FAIL -> PASS ['PASS', 'PASS', 'PASS']
+Rejudging 18 PASS control samples (unchanged), model=anthropic/claude-haiku-4-5-20251001...
+  p1-r1-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p1-r10-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p1-r2-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p1-r3-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p1-r4-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p1-r5-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p1-r6-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p1-r7-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p1-r8-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p1-r9-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p10-r1-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p10-r10-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p10-r2-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p10-r3-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p10-r4-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p10-r5-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p10-r6-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+  p10-r7-reference_only: PASS -> PASS ['PASS', 'PASS', 'PASS']
+
+=== 2x2 table ===
+                               held (unflipped)    flipped
+FAIL, bold-stripped (18)                      0         18
+PASS, unchanged controls (18)                 18          0
+
+FAIL flip rate: 18/18
+Control flip rate: 0/18
+
+-> majority flip: judge is formatting-sensitive; framing effect is partly artifact.
+
+Wrote rejudge_bold_results.json
