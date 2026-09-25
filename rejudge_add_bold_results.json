@@ -1,0 +1,1954 @@
+{
+  "summary": {
+    "flipped": 100,
+    "n": 100,
+    "focus_flipped": 30,
+    "focus_n": 30,
+    "split_votes": 0,
+    "skipped": [],
+    "by_passage": {
+      "1": {
+        "flipped": 10,
+        "n": 10
+      },
+      "10": {
+        "flipped": 10,
+        "n": 10
+      },
+      "2": {
+        "flipped": 10,
+        "n": 10
+      },
+      "3": {
+        "flipped": 10,
+        "n": 10
+      },
+      "4": {
+        "flipped": 10,
+        "n": 10
+      },
+      "5": {
+        "flipped": 10,
+        "n": 10
+      },
+      "6": {
+        "flipped": 10,
+        "n": 10
+      },
+      "7": {
+        "flipped": 10,
+        "n": 10
+      },
+      "8": {
+        "flipped": 10,
+        "n": 10
+      },
+      "9": {
+        "flipped": 10,
+        "n": 10
+      }
+    }
+  },
+  "results": [
+    {
+      "sample_id": "p1-r1-reference_only",
+      "passage_id": "1",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plants** use **photosynthesis** in **chloroplasts**, where **chlorophyll** **absorbs** **sunlight** to **convert** **carbon dioxide** and **water** into **glucose** for **energy**. **Oxygen** is released as a **byproduct**, making **photosynthesis** Earth's primary source of **atmospheric** **oxygen**.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of bolded keywords and phrase fragments copied directly from the source rather than being rewritten as coherent prose sentences.",
+        "FAIL\nThe model output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in proper sente",
+        "FAIL\nThe output consists primarily of keywords and phrases copied directly from the source with bold formatting, rather than expressing ideas in coherent prose sentences that demonstrate genuine under"
+      ]
+    },
+    {
+      "sample_id": "p1-r10-reference_only",
+      "passage_id": "1",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plants** use **photosynthesis** in **chloroplasts**, where **chlorophyll** **absorbs** **sunlight** to **convert** **carbon dioxide** and **water** into **glucose** for **energy**. **Oxygen** is released as a **byproduct**, making **photosynthesis** Earth's primary source of **atmospheric** **oxygen**.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of keywords and phrases from the source passage with bolded terms rather than genuine prose sentences that coherently explain the concept.",
+        "FAIL\nThe output consists primarily of bolded keywords and fragments copied directly from the source rather than coherent prose sentences that genuinely summarize the passage.",
+        "FAIL\nThe output is primarily a series of bolded keywords and fragments copied directly from the source rather than a genuine summary written in coherent prose sentences."
+      ]
+    },
+    {
+      "sample_id": "p1-r2-reference_only",
+      "passage_id": "1",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plants** use **photosynthesis** in **chloroplasts**, where **chlorophyll** **absorbs** **sunlight** to **convert** **carbon dioxide** and **water** into **glucose** for **energy**. **Oxygen** is released as a **byproduct**, making **photosynthesis** Earth's primary source of **atmospheric** **oxygen**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in complete sentences.",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments copied directly from the source rather than expressing the main idea in coherent prose sentences.",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences that synthesize the source material into a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p1-r3-reference_only",
+      "passage_id": "1",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plants** use **photosynthesis** in **chloroplasts**, where **chlorophyll** **absorbs** **sunlight** to **convert** **carbon dioxide** and **water** into **glucose** for **energy**. **Oxygen** is released as a **byproduct**, making **photosynthesis** Earth's primary source of **atmospheric** **oxygen**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a series of bolded keywords and fragments strung together rather than coherent prose sentences that independently convey the main idea.",
+        "FAIL\nThe output consists primarily of bolded keywords and fragments copied directly from the source rather than coherent prose sentences that express the main idea in the summarizer's own language.",
+        "FAIL\nThe output consists primarily of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in complete, flowing sente"
+      ]
+    },
+    {
+      "sample_id": "p1-r4-reference_only",
+      "passage_id": "1",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plants** use **photosynthesis** in **chloroplasts**, where **chlorophyll** **absorbs** **sunlight** to **convert** **carbon dioxide** and **water** into **glucose** for **energy**. **Oxygen** is released as a **byproduct**, making **photosynthesis** Earth's primary source of **atmospheric** **oxygen**.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of bolded keywords and phrase fragments copied directly from the source rather than genuine prose sentences that coherently express the main ideas.",
+        "FAIL\nThe output consists primarily of bolded keywords and fragments rather than coherent prose sentences, failing to meet the genuine summary requirement of expressing ideas in natural, connected lang",
+        "FAIL\nThe output is primarily a series of bolded keywords and sentence fragments rather than coherent prose sentences that genuinely summarize the passage."
+      ]
+    },
+    {
+      "sample_id": "p1-r5-reference_only",
+      "passage_id": "1",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plants** use **photosynthesis** in **chloroplasts**, where **chlorophyll** **absorbs** **sunlight** to **convert** **carbon dioxide** and **water** into **glucose** for **energy**. **Oxygen** is released as a **byproduct**, making **photosynthesis** Earth's primary source of **atmospheric** **oxygen**.",
+      "explanations": [
+        "FAIL\nThe output consists primarily of bolded keywords and fragments from the source rather than coherent prose sentences that synthesize the information into a genuine summary.",
+        "FAIL\nThe output consists primarily of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must use proper sentence structure and not be",
+        "FAIL\n\nThe model output is primarily a list of bolded keywords and phrase fragments copied directly from the source rather than a genuine summary written in coherent prose sentences."
+      ]
+    },
+    {
+      "sample_id": "p1-r6-reference_only",
+      "passage_id": "1",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plants** use **photosynthesis** in **chloroplasts**, where **chlorophyll** **absorbs** **sunlight** to **convert** **carbon dioxide** and **water** into **glucose** for **energy**. **Oxygen** is released as a **byproduct**, making **photosynthesis** Earth's primary source of **atmospheric** **oxygen**.",
+      "explanations": [
+        "FAIL\nThe model output consists almost entirely of bolded keywords and fragments copied directly from the source rather than expressing the main idea in coherent prose sentences.",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments copied directly from the source rather than coherent prose sentences that paraphrase the original passage.",
+        "FAIL\nThe output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be expressed in proper sentence "
+      ]
+    },
+    {
+      "sample_id": "p1-r7-reference_only",
+      "passage_id": "1",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plants** use **photosynthesis** in **chloroplasts**, where **chlorophyll** **absorbs** **sunlight** to **convert** **carbon dioxide** and **water** into **glucose** for **energy**. **Oxygen** is released as a **byproduct**, making **photosynthesis** Earth's primary source of **atmospheric** **oxygen**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a collection of bolded keywords and phrase fragments rather than coherent prose sentences that express the main idea in natural language.",
+        "FAIL\n\nThe output is primarily a list of bolded keywords and fragments rather than genuine prose sentences that coherently express the main idea.",
+        "FAIL\nThe output is primarily a series of bolded keywords and phrases copied directly from the source rather than a coherent prose summary that restates the information in original sentence structure."
+      ]
+    },
+    {
+      "sample_id": "p1-r8-reference_only",
+      "passage_id": "1",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plants** use **photosynthesis** in **chloroplasts**, where **chlorophyll** **absorbs** **sunlight** to **convert** **carbon dioxide** and **water** into **glucose** for **energy**. **Oxygen** is released as a **byproduct**, making **photosynthesis** Earth's primary source of **atmospheric** **oxygen**.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in proper sente",
+        "FAIL\nThe model output is primarily a series of bolded keywords and phrases extracted from the source rather than a coherent prose summary, failing to meet the requirement of expressing ideas in comple",
+        "FAIL\nThe model output consists primarily of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in standard narrative f"
+      ]
+    },
+    {
+      "sample_id": "p1-r9-reference_only",
+      "passage_id": "1",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plants** use **photosynthesis** in **chloroplasts**, where **chlorophyll** **absorbs** **sunlight** to **convert** **carbon dioxide** and **water** into **glucose** for **energy**. **Oxygen** is released as a **byproduct**, making **photosynthesis** Earth's primary source of **atmospheric** **oxygen**.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a list of bolded keywords and fragments from the source rather than a coherent prose summary with proper sentence structure and original phrasing.",
+        "FAIL\nThe output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in cohesive narrat",
+        "FAIL\n\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences that explain the photosynthesis process in a summarized narrative form."
+      ]
+    },
+    {
+      "sample_id": "p10-r1-reference_only",
+      "passage_id": "10",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Climate change** involves long-term **shifts** in **temperatures** and weather, driven by human activity since the **Industrial Revolution**. **Burning** **fossil fuels** releases **greenhouse gases** like **carbon dioxide** and **methane**, trapping **heat** in the **atmosphere**. This causes **extreme weather**, **sea-level rise**, and **biodiversity** threats.",
+      "explanations": [
+        "FAIL\nThe output is primarily a reworded collection of bolded keywords and phrases rather than genuine prose that synthesizes the source material into coherent, original summary sentences.",
+        "FAIL\nThe output is primarily a series of bolded keywords and phrases copied directly from the source rather than genuine summary prose that reorganizes and synthesizes the information into coherent se",
+        "FAIL\nThe output is primarily a copied sequence of keywords and phrases with minimal rephrasing, resembling a highlighted version of the source rather than a genuine prose summary that demonstrates und"
+      ]
+    },
+    {
+      "sample_id": "p10-r10-reference_only",
+      "passage_id": "10",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Climate change** involves long-term **shifts** in **temperatures** and weather, driven by **burning** **fossil fuels** since the **Industrial Revolution**. Released **greenhouse gases** like **carbon dioxide** and **methane** **trap** **heat** in the **atmosphere**, causing **extreme weather**, **sea-level rise**, and threats to **biodiversity**.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a list of bolded keywords and sentence fragments copied directly from the source rather than a genuine prose summary that reorganizes and synthesizes the information in c",
+        "FAIL\nThe model output is primarily a sequence of bolded keywords and phrase fragments rather than coherent prose sentences, failing to meet the requirement of expressing ideas in genuine summary form.",
+        "FAIL\n\nThe model output is primarily a list of bolded keywords and sentence fragments copied directly from the source rather than a coherent prose summary that demonstrates genuine understanding and re"
+      ]
+    },
+    {
+      "sample_id": "p10-r2-reference_only",
+      "passage_id": "10",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Climate change** involves long-term **shifts** in **temperatures** and weather, driven by human activity since the **Industrial Revolution**. **Burning** **fossil fuels** releases **greenhouse gases** like **carbon dioxide** and **methane**, trapping **heat** in the **atmosphere**. This causes **extreme weather**, **sea-level rise**, and threatens **biodiversity**.",
+      "explanations": [
+        "FAIL\n\nThe model output is primarily a reworded extraction of keywords and phrases from the source (indicated by excessive bolding), lacking the coherent prose structure and independent synthesis requi",
+        "FAIL\nThe output consists primarily of bolded keywords and phrases copied directly from the source rather than expressing ideas in coherent prose sentences.",
+        "FAIL\nThe output is primarily a reformatted extraction of keywords and phrases from the source rather than a genuine prose summary, as evidenced by the excessive bolding of individual words and the lac"
+      ]
+    },
+    {
+      "sample_id": "p10-r3-reference_only",
+      "passage_id": "10",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Climate change** involves long-term **shifts** in **temperatures** and weather patterns since the **Industrial Revolution**. **Burning** **fossil fuels** releases **greenhouse gases** like **carbon dioxide** and **methane**, trapping **heat** in the **atmosphere**. This causes **extreme weather**, **sea-level rise**, and **biodiversity** threats.",
+      "explanations": [
+        "FAIL\n\nThe model output is primarily a list of bolded keywords and phrase fragments copied directly from the source rather than a genuine summary written in coherent prose sentences.",
+        "FAIL\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe model output consists primarily of highlighted keywords and fragmented phrases rather than coherent prose sentences, violating the requirement that a genuine summary must use full, connected "
+      ]
+    },
+    {
+      "sample_id": "p10-r4-reference_only",
+      "passage_id": "10",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Climate change** involves long-term **shifts** in **temperatures** and weather patterns since the **Industrial Revolution**. **Burning** **fossil fuels** releases **greenhouse gases** like **carbon dioxide** and **methane**, which **trap** **heat** in the **atmosphere**. This drives **extreme weather**, **sea-level rise**, and **biodiversity** threats.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a reordered collection of keywords and phrases from the source with bolded words emphasizing copied material, rather than a coherent summary written in natural prose sent",
+        "FAIL\nThe output consists primarily of bolded keywords and fragmented phrases copied directly from the source rather than coherent prose sentences that synthesize the information.",
+        "FAIL\n\nThe model output consists primarily of copied keywords and phrases with bolded terms rather than coherent prose sentences that synthesize the source material into a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p10-r5-reference_only",
+      "passage_id": "10",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Climate change** involves long-term **shifts** in **temperatures** and weather, driven by human activity since the **Industrial Revolution**. **Burning** **fossil fuels** releases **greenhouse gases** like **carbon dioxide** and **methane**, trapping **heat** in the **atmosphere**. This causes **extreme weather**, **sea-level rise**, and threatens **biodiversity**.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\n\nThe output is primarily a reworded collection of keywords and phrases from the source with bold formatting, rather than a coherent summary written in natural prose sentences.",
+        "FAIL\n\nThe output is primarily a keyword-heavy restatement with bolded terms extracted directly from the source rather than a genuine summary written in coherent prose."
+      ]
+    },
+    {
+      "sample_id": "p10-r6-reference_only",
+      "passage_id": "10",
+      "original_verdict": "PASS",
+      "bold_spans_added": 13,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Climate change**, driven by **burning** **fossil fuels** since the **Industrial Revolution**, releases **greenhouse gases** like **carbon dioxide** and **methane**, trapping **heat** in the **atmosphere**. This causes rising **temperatures**, **extreme weather**, **sea-level rise**, and **biodiversity** threats.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a collection of bolded keywords and sentence fragments rather than coherent prose sentences that would be understandable without the source material.",
+        "FAIL\n\nThe output is primarily a series of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express main ideas in proper ",
+        "FAIL\nThe output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement for genuine summarization."
+      ]
+    },
+    {
+      "sample_id": "p10-r7-reference_only",
+      "passage_id": "10",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Climate change** involves long-term **shifts** in **temperatures** and weather patterns since the **Industrial Revolution**. **Burning** **fossil fuels** releases **greenhouse gases** like **carbon dioxide** and **methane**, trapping **heat** in the **atmosphere**. This drives **extreme weather**, **sea-level rise**, and **biodiversity** threats.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of copied keywords and phrases with bolded terms rather than coherent prose sentences that would be understandable as a standalone summary.",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and fragmented phrases copied directly from the source rather than expressing ideas in coherent prose sentences.",
+        "FAIL\nThe model output is primarily a reworded list of keywords and phrases from the source rather than a genuine summary expressed in coherent prose sentences."
+      ]
+    },
+    {
+      "sample_id": "p10-r8-reference_only",
+      "passage_id": "10",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Climate change** involves long-term **shifts** in **temperatures** and weather patterns since the **Industrial Revolution**. **Burning** **fossil fuels** releases **greenhouse gases** like **carbon dioxide** and **methane**, which **trap** **heat** in the **atmosphere**. This causes **extreme weather**, **sea-level rise**, and threats to **biodiversity**.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences that would be understandable as a genuine summary to someone unfamiliar with the source",
+        "FAIL\nThe output is primarily a list of bolded keywords and phrases copied directly from the source rather than coherent prose that reformulates the main ideas in the model's own words.",
+        "FAIL\nThe output is primarily a reworded extraction of keywords and phrases from the source rather than a coherent summary written in genuine prose, as evidenced by the excessive bolding of terms that "
+      ]
+    },
+    {
+      "sample_id": "p10-r9-reference_only",
+      "passage_id": "10",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Climate change** involves long-term **shifts** in **temperatures** and weather patterns since the **Industrial Revolution**. **Burning** **fossil fuels** releases **greenhouse gases** like **carbon dioxide** and **methane**, which **trap** **heat** in the **atmosphere**. This drives **extreme weather**, **sea-level rise**, and threats to **biodiversity**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a collection of bolded keywords and phrases copied directly from the source rather than a genuine summary written in coherent prose.",
+        "FAIL\n\nThe output is primarily a collection of bolded keywords and phrases copied directly from the source rather than a genuine summary written in coherent prose.",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments copied directly from the source rather than genuine prose sentences that demonstrate comprehension and synthesis."
+      ]
+    },
+    {
+      "sample_id": "p2-r1-reference_only",
+      "passage_id": "2",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **French Revolution** (**1789**) overthrew **France**'s **monarchy** and **aristocracy**, inspired by **Enlightenment** ideals of **liberty** and **equality**. **Citizens** stormed the **Bastille**, **executed** **Louis XVI**, and established popular **sovereignty**, introducing **democratic** **governance** across Europe.",
+      "explanations": [
+        "FAIL\n\nThe model output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences that would be understandable as genuine summary writing.",
+        "FAIL\n\nThe output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in complete, flo",
+        "FAIL\nThe output consists primarily of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in normal narrative form."
+      ]
+    },
+    {
+      "sample_id": "p2-r10-reference_only",
+      "passage_id": "2",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **French Revolution** (**1789**) overthrew **France**'s **monarchy** and **aristocracy**, inspired by **Enlightenment** ideals of **liberty** and **equality**. **Citizens** stormed the **Bastille**, **executed** **Louis XVI**, and established popular **sovereignty**, introducing **democratic** **governance** across Europe.",
+      "explanations": [
+        "FAIL\n\nThe model output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, failing to meet the requirement of expressing ideas in genuine summary form.",
+        "FAIL\n\nThe output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\n\nThe output is primarily a series of bolded keywords and phrases copied directly from the source rather than coherent prose sentences that synthesize the information."
+      ]
+    },
+    {
+      "sample_id": "p2-r2-reference_only",
+      "passage_id": "2",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **French Revolution** (**1789**) overthrew **France**'s **monarchy** and **aristocracy**, inspired by **Enlightenment** ideals of **liberty** and **equality**. **Citizens** stormed the **Bastille**, **executed** **Louis XVI**, and established popular **sovereignty**, introducing **democratic** **governance** across Europe.",
+      "explanations": [
+        "FAIL\nThe output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\n\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be expressed in proper narrative form.",
+        "FAIL\nThe output is primarily a list of bolded keywords and phrases copied directly from the source rather than a coherent prose summary written in complete sentences."
+      ]
+    },
+    {
+      "sample_id": "p2-r3-reference_only",
+      "passage_id": "2",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **French Revolution** (**1789**) overthrew **France**'s **monarchy** and **aristocracy**, inspired by **Enlightenment** ideals of **liberty** and **equality**. **Citizens** stormed the **Bastille**, **executed** **Louis XVI**, and established popular **sovereignty**, introducing **democratic** **governance** across Europe.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a list of bolded keywords and phrases copied directly from the source rather than genuine prose sentences that synthesize the information coherently.",
+        "FAIL\n\nThe output consists primarily of keywords and phrases copied directly from the source with excessive bolding, rather than expressing ideas in coherent prose sentences.",
+        "FAIL\n\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in proper sentence struc"
+      ]
+    },
+    {
+      "sample_id": "p2-r4-reference_only",
+      "passage_id": "2",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **French Revolution** (**1789**) overthrew **France**'s **monarchy** and **aristocracy**, inspired by **Enlightenment** ideals of **liberty** and **equality**. **Citizens** stormed the **Bastille**, **executed** **Louis XVI**, and established popular **sovereignty**, introducing **democratic** **governance** across Europe.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in normal narrative form.",
+        "FAIL\n\nThe output consists primarily of keywords and phrases copied directly from the source with excessive bolding, rather than coherent prose that synthesizes the information into genuine summary for",
+        "FAIL\n\nThe output consists primarily of keywords and phrases extracted directly from the source text with excessive bolding, rather than presenting information in coherent prose sentences that demonstr"
+      ]
+    },
+    {
+      "sample_id": "p2-r5-reference_only",
+      "passage_id": "2",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **French Revolution** (**1789**) overthrew **France**'s **monarchy** and **aristocracy**, inspired by **Enlightenment** ideals of **liberty** and **equality**. **Citizens** stormed the **Bastille**, **executed** **Louis XVI**, and established popular **sovereignty**, introducing **democratic** **governance** across Europe.",
+      "explanations": [
+        "FAIL\nThe output is primarily a reformatted list of bolded keywords and phrases rather than coherent prose sentences that synthesize the source material into a genuine summary.",
+        "FAIL\n\nThe model output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in proper sentence",
+        "FAIL\n\nThe model output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in proper narrative f"
+      ]
+    },
+    {
+      "sample_id": "p2-r6-reference_only",
+      "passage_id": "2",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **French Revolution** (**1789**) overthrew **France**'s **monarchy** and **aristocracy**, inspired by **Enlightenment** ideals of **liberty** and **equality**. **Citizens** stormed the **Bastille**, **executed** **Louis XVI**, and established popular **sovereignty**, introducing **democratic** **governance** across Europe.",
+      "explanations": [
+        "FAIL\nThe output is primarily a series of bolded keywords and phrases copied directly from the source rather than coherent prose sentences that synthesize the information.",
+        "FAIL\n\nThe output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement that a genuine summary must be written in proper sentence ",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it read more like highlighted source material than a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p2-r7-reference_only",
+      "passage_id": "2",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **French Revolution** (**1789**) overthrew **France**'s **monarchy** and **aristocracy**, inspired by **Enlightenment** ideals of **liberty** and **equality**. **Citizens** stormed the **Bastille**, **executed** **Louis XVI**, and established popular **sovereignty**, introducing **democratic** **governance** across Europe.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a list of bolded keywords and fragments copied directly from the source rather than coherent prose sentences that synthesize the information.",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in flowing, understandable l",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in complete,"
+      ]
+    },
+    {
+      "sample_id": "p2-r8-reference_only",
+      "passage_id": "2",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **French Revolution** (**1789**) overthrew **France**'s **monarchy** and **aristocracy**, inspired by **Enlightenment** ideals of **liberty** and **equality**. **Citizens** stormed the **Bastille**, **executed** **Louis XVI**, and established popular **sovereignty**, introducing **democratic** **governance** across Europe.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of bolded keywords and sentence fragments rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\n\nThe output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\n\nThe model output consists primarily of keywords and phrases copied directly from the source with excessive bolding, rather than expressing ideas in coherent prose sentences as required for a gen"
+      ]
+    },
+    {
+      "sample_id": "p2-r9-reference_only",
+      "passage_id": "2",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **French Revolution** (**1789**) overthrew **France**'s **monarchy** and **aristocracy**, inspired by **Enlightenment** ideals of **liberty** and **equality**. **Citizens** stormed the **Bastille**, **executed** **Louis XVI**, and established popular **sovereignty**, introducing **democratic** **governance** across Europe.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of keywords and phrases copied directly from the source with excessive bold formatting, rather than being written in coherent prose sentences that demonstrate genui",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in proper narrative form.",
+        "FAIL\n\nThe output is primarily a list of bolded keywords and phrases copied directly from the source rather than a coherent prose summary written in the model's own words."
+      ]
+    },
+    {
+      "sample_id": "p3-r1-reference_only",
+      "passage_id": "3",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Massive stars** **collapse** under **gravity** when **fuel** runs out, forming **black holes**. The **event horizon** is the **boundary** where **light** cannot **escape**. **Stephen Hawking** proposed that **quantum** effects cause **black holes** to **emit** **Hawking radiation**, slowly evaporating them over **cosmic** timescales.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of keywords and phrases with bold formatting rather than coherent prose sentences, making it read as a keyword extraction rather than a genuine summary.",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it difficult to read as a genuine summary despite covering the main ideas.",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and fragments rather than coherent prose sentences, failing to meet the requirement of expressing ideas in genuine summary form."
+      ]
+    },
+    {
+      "sample_id": "p3-r10-reference_only",
+      "passage_id": "3",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Massive stars** **collapse** under **gravity** when **fuel** runs out, forming **black holes** with an **event horizon**\u2014a **boundary** **light** can't **escape**. **Stephen Hawking** proposed **quantum** effects cause **black holes** to **emit** **Hawking radiation**, gradually evaporating over **cosmic** timescales.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it read as an extracted outline rather than a genuine summary.",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it difficult to read as a genuine summary despite containing accurate information.",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it difficult to understand as a standalone summary and violating the requirement for g"
+      ]
+    },
+    {
+      "sample_id": "p3-r2-reference_only",
+      "passage_id": "3",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Massive stars** **collapse** under **gravity** when **fuel** runs out, forming **black holes** where **light** cannot **escape** past the **event horizon**. **Stephen Hawking** proposed that **quantum** effects cause **black holes** to **emit** **Hawking radiation**, slowly evaporating them over **cosmic** timescales.",
+      "explanations": [
+        "FAIL\nThe output is primarily a collection of bolded keywords and fragments rather than coherent prose sentences, making it read more like an index or keyword extraction than a genuine summary.",
+        "FAIL\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, making it read like a highlighted keyword list rather than a genuine summary.",
+        "FAIL\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, making it read like a keyword extraction exercise rather than a genuine summary"
+      ]
+    },
+    {
+      "sample_id": "p3-r3-reference_only",
+      "passage_id": "3",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Massive stars** **collapse** under **gravity** when their **fuel** runs out, forming **black holes** where **light** cannot **escape** past the **event horizon**. **Stephen Hawking** proposed that **quantum** effects cause **black holes** to **emit** **Hawking radiation**, slowly evaporating them over **cosmic** timescales.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a sequence of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, failing the requirement to express ideas in natural, connected language.",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments strung together rather than coherent prose sentences, making it read more like an outlined list than a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p3-r4-reference_only",
+      "passage_id": "3",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Massive stars** **collapse** under **gravity** when **fuel** runs out, forming **black holes** where **light** cannot **escape** past the **event horizon**. **Stephen Hawking** proposed **quantum** effects cause **black holes** to **emit** **Hawking radiation**, gradually evaporating them over **cosmic** timescales.",
+      "explanations": [
+        "FAIL\nThe output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, making it read like a keyword extraction exercise rather than a genuine summary.",
+        "FAIL\nThe output consists primarily of bolded keywords and sentence fragments rather than coherent prose sentences, making it read like a highlighted list rather than a genuine summary.",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement for genuine summary writing."
+      ]
+    },
+    {
+      "sample_id": "p3-r5-reference_only",
+      "passage_id": "3",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Massive stars** **collapse** under **gravity** when **fuel** runs out, forming **black holes** where **light** cannot **escape** past the **event horizon**. **Stephen Hawking** proposed **quantum** effects cause **black holes** to **emit** **Hawking radiation**, slowly evaporating them over **cosmic** timescales.",
+      "explanations": [
+        "FAIL\nThe output consists primarily of bolded keywords and sentence fragments rather than coherent prose sentences, making it read like a highlighted keyword list rather than a genuine summary.",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, making it read like a highlighted source text rather than a genuine summary.",
+        "FAIL\n\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement for genuine summary writing."
+      ]
+    },
+    {
+      "sample_id": "p3-r6-reference_only",
+      "passage_id": "3",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Massive stars** **collapse** under **gravity** when **fuel** runs out, forming **black holes** where **light** cannot **escape** past the **event horizon**. **Stephen Hawking** proposed that **quantum** effects cause **black holes** to **emit** **Hawking radiation**, gradually evaporating over **cosmic** timescales.",
+      "explanations": [
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, failing to meet the requirement of expressing ideas in genuine summary form.",
+        "FAIL\nThe output is primarily a collection of bolded keywords and fragments rather than coherent prose sentences, making it read like a keyword list rather than a genuine summary.",
+        "FAIL\n\nThe output consists primarily of bolded keywords and sentence fragments rather than coherent prose sentences, violating the core requirement that a genuine summary must be written in standard pr"
+      ]
+    },
+    {
+      "sample_id": "p3-r7-reference_only",
+      "passage_id": "3",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Massive stars** **collapse** under **gravity** when **fuel** runs out, forming **black holes** where **light** cannot **escape** past the **event horizon**. **Stephen Hawking** proposed that **quantum** effects cause **black holes** to **emit** **Hawking radiation**, meaning they gradually **evaporate** over **cosmic** timescales.",
+      "explanations": [
+        "FAIL\nThe output is primarily a list of bolded keywords and sentence fragments rather than coherent prose sentences, making it difficult to read as a genuine summary despite containing accurate informa",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, failing to meet the requirement of expressing ideas in genuine summary form.",
+        "FAIL\nThe model output consists primarily of bolded keywords and fragments rather than coherent prose sentences, making it read like a highlighted version of the source rather than a genuine summary wr"
+      ]
+    },
+    {
+      "sample_id": "p3-r8-reference_only",
+      "passage_id": "3",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Massive stars** **collapse** under **gravity** when their **fuel** runs out, forming **black holes** with an **event horizon**\u2014a **boundary** where **light** cannot **escape**. **Stephen Hawking** proposed that **quantum** effects cause **black holes** to **emit** **Hawking radiation**, causing them to gradually **evaporate** over **cosmic** timescales.",
+      "explanations": [
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in complete, flowing sent",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in continuous narrative form",
+        "FAIL\nThe output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, failing to meet the requirement of expressing ideas in proper sentence structure."
+      ]
+    },
+    {
+      "sample_id": "p3-r9-reference_only",
+      "passage_id": "3",
+      "original_verdict": "PASS",
+      "bold_spans_added": 16,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Massive stars** **collapse** under **gravity** when they exhaust **fuel**, forming **black holes** with an **event horizon**\u2014a **boundary** **light** cannot **escape**. **Stephen Hawking** proposed that **quantum** effects near this **boundary** cause **black holes** to **emit** **Hawking radiation**, gradually evaporating over **cosmic** timescales.",
+      "explanations": [
+        "FAIL\nThe output is primarily a collection of bolded keywords and sentence fragments rather than coherent prose sentences, making it read more like highlighted text than a genuine summary.",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and sentence fragments rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, making it read as a keyword extraction exercise rather than a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p4-r1-reference_only",
+      "passage_id": "4",
+      "original_verdict": "PASS",
+      "bold_spans_added": 20,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **law** of **supply** and **demand** explains how buyer-seller **interaction** sets **market** **prices**. When **demand** **exceeds** **supply**, **prices** **rise**; when **supply** **exceeds** **demand**, **prices** **fall**. Markets reach **equilibrium** where **quantity** supplied equals **quantity** **demanded**.",
+      "explanations": [
+        "FAIL\nThe output consists primarily of bolded keywords and fragments copied directly from the source rather than coherent prose that rephrases the main ideas.",
+        "FAIL\nThe output is not a genuine summary because it consists primarily of keywords and phrases copied directly from the source with arbitrary bolding, rather than coherent prose that demonstrates unde",
+        "FAIL\n\nThe output is primarily a direct copy of the source passage with arbitrary bolding of keywords, rather than a genuine restatement that demonstrates comprehension and synthesis of the material."
+      ]
+    },
+    {
+      "sample_id": "p4-r10-reference_only",
+      "passage_id": "4",
+      "original_verdict": "PASS",
+      "bold_spans_added": 20,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **law** of **supply** and **demand** explains how buyer-seller **interaction** sets **market** **prices**. When **demand** **exceeds** **supply**, **prices** **rise**; when **supply** **exceeds** **demand**, **prices** **fall**. Markets reach **equilibrium** when **quantity** supplied equals **quantity** **demanded**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a bolded keyword extraction rather than a genuine summary, as it strings together emphasized terms in a way that mimics the source's structure too closely without demonstr",
+        "FAIL\nThe model output is primarily a bolded keyword extraction rather than a genuine summary, as it lacks coherent prose structure and reads as fragmented phrases copied directly from the source.",
+        "FAIL\nThe output is primarily a keyword-highlighted version of the source text rather than a genuine summary written in coherent prose, as it maintains the exact structure and wording of the original w"
+      ]
+    },
+    {
+      "sample_id": "p4-r2-reference_only",
+      "passage_id": "4",
+      "original_verdict": "PASS",
+      "bold_spans_added": 20,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **law** of **supply** and **demand** explains how buyer-seller **interaction** sets **market** **prices**. When **demand** **exceeds** **supply**, **prices** **rise**; when **supply** **exceeds** **demand**, **prices** **fall**. Markets reach **equilibrium** where **quantity** supplied equals **quantity** **demanded**.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a copied sequence of keywords and phrases from the source with selective bolding, rather than a coherent restatement that demonstrates understanding and synthesis of the ",
+        "FAIL\n\nThe model output is essentially a verbatim copy of the source passage with arbitrary bolding of keywords, which violates the requirement that a genuine summary must express ideas in coherent pro",
+        "FAIL\n\nThe output is primarily a copied version of the source text with artificial bolding of keywords rather than a genuine rewrite that demonstrates comprehension and synthesis of the material."
+      ]
+    },
+    {
+      "sample_id": "p4-r3-reference_only",
+      "passage_id": "4",
+      "original_verdict": "PASS",
+      "bold_spans_added": 20,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **law** of **supply** and **demand** explains how buyer-seller **interaction** sets **market** **prices**. When **demand** **exceeds** **supply**, **prices** **rise**; when **supply** **exceeds** **demand**, **prices** **fall**. Markets reach **equilibrium** where **quantity** supplied equals **quantity** **demanded**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a direct copy of the source text with arbitrary bolding of keywords rather than a genuine summary that rephrases and synthesizes the information in the model's own words.",
+        "FAIL\n\nThe model output is primarily a copied sequence of bolded keywords and phrases rather than a genuine summary written in coherent prose, making it difficult to assess independent comprehension an",
+        "FAIL\nThe output is primarily a copied list of bolded keywords and fragments rather than a coherent prose summary that would be understandable as independent writing."
+      ]
+    },
+    {
+      "sample_id": "p4-r4-reference_only",
+      "passage_id": "4",
+      "original_verdict": "PASS",
+      "bold_spans_added": 20,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **law** of **supply** and **demand** explains how buyer-seller **interaction** sets **market** **prices**. When **demand** **exceeds** **supply**, **prices** **rise**; when **supply** **exceeds** **demand**, **prices** **fall**. Markets reach **equilibrium** where **quantity** supplied equals **quantity** **demanded**.",
+      "explanations": [
+        "FAIL\n\nThe model output is primarily a copied keyword version of the source passage with artificial bolding rather than a genuine summary written in coherent prose.",
+        "FAIL\nThe model output is essentially a direct copy of the source passage with arbitrary bolding of keywords rather than a genuine summary that reorganizes and synthesizes the content in a more concise",
+        "FAIL\n\nThe model output is primarily a keyword-highlighted version of the source passage rather than a genuine summary written in coherent prose, as it consists largely of bolded fragments copied direc"
+      ]
+    },
+    {
+      "sample_id": "p4-r5-reference_only",
+      "passage_id": "4",
+      "original_verdict": "PASS",
+      "bold_spans_added": 20,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **law** of **supply** and **demand** explains how buyer-seller **interaction** sets **market** **prices**. When **demand** **exceeds** **supply**, **prices** **rise**; when **supply** **exceeds** **demand**, **prices** **fall**. Markets reach **equilibrium** where **quantity** supplied equals **quantity** **demanded**.",
+      "explanations": [
+        "FAIL\nThe output is essentially a direct copy of the source passage with arbitrary bolding of keywords rather than a genuine summary that reformulates the ideas in coherent prose.",
+        "FAIL\nThe output is primarily a direct copy of the source text with arbitrary bolding of keywords rather than a genuine rewrite that demonstrates understanding and synthesis of the material.",
+        "FAIL\nThe output is primarily a verbatim copy of the source with arbitrary bolding of keywords rather than a genuine rewrite that demonstrates understanding and coherent summarization."
+      ]
+    },
+    {
+      "sample_id": "p4-r6-reference_only",
+      "passage_id": "4",
+      "original_verdict": "PASS",
+      "bold_spans_added": 20,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **law** of **supply** and **demand** explains how buyer-seller **interaction** sets **market** **prices**. When **demand** **exceeds** **supply**, **prices** **rise**; when **supply** **exceeds** **demand**, **prices** **fall**. Markets reach **equilibrium** where **quantity** supplied equals **quantity** **demanded**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a copied list of bolded keywords and phrases rather than a genuine summary written in coherent prose, failing the requirement to express ideas in natural sentences rather ",
+        "FAIL\nThe model output is primarily a verbatim copy of the source with bolded keywords rather than a genuine summary expressed in coherent prose.",
+        "FAIL\n\nThe output consists primarily of keywords and phrases copied directly from the source with arbitrary bolding, rather than expressing ideas in coherent prose as a genuine summary requires."
+      ]
+    },
+    {
+      "sample_id": "p4-r7-reference_only",
+      "passage_id": "4",
+      "original_verdict": "PASS",
+      "bold_spans_added": 20,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **law** of **supply** and **demand** explains how **buyers** and **sellers** interact to set **prices**. When **demand** **exceeds** **supply**, **prices** **rise**; when **supply** **exceeds** **demand**, **prices** **fall**. Markets reach **equilibrium** where **quantity** supplied equals **quantity** **demanded**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a direct copy of the source with arbitrary bolding applied to keywords, rather than a genuine rewrite that demonstrates comprehension and synthesis.",
+        "FAIL\n\nThe model output is primarily a direct copy of the source passage with selective bolding of keywords rather than a genuine summary written in coherent prose, which violates the requirement that ",
+        "FAIL\n\nThe model output is primarily a copied sequence of keywords and phrases with excessive bolding rather than a genuine summary written in coherent prose."
+      ]
+    },
+    {
+      "sample_id": "p4-r8-reference_only",
+      "passage_id": "4",
+      "original_verdict": "PASS",
+      "bold_spans_added": 20,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **law** of **supply** and **demand** explains how buyer-seller **interaction** sets **market** **prices**. When **demand** **exceeds** **supply**, **prices** **rise**; when **supply** **exceeds** **demand**, **prices** **fall**. Markets reach **equilibrium** where **quantity** supplied equals **quantity** **demanded**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a copied sequence of keywords and phrases with arbitrary bolding rather than a genuine summary written in coherent prose.",
+        "FAIL\nThe output is primarily a copied sequence of keywords and phrases with selective bolding rather than a genuine summary written in coherent prose.",
+        "FAIL\nThe output is primarily a keyword-heavy copy of the source passage with bolded words rather than a genuine summary expressed in coherent prose."
+      ]
+    },
+    {
+      "sample_id": "p4-r9-reference_only",
+      "passage_id": "4",
+      "original_verdict": "PASS",
+      "bold_spans_added": 20,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **law** of **supply** and **demand** explains how buyer-seller **interaction** sets **market** **prices**. When **demand** **exceeds** **supply**, **prices** **rise**; when **supply** **exceeds** **demand**, **prices** **fall**. Markets reach **equilibrium** where **quantity** supplied equals **quantity** **demanded**.",
+      "explanations": [
+        "FAIL\nThe model output is primarily a word-for-word copy of the source passage with arbitrary bolding added, rather than a genuine summary that reorganizes and synthesizes the information into new cohe",
+        "FAIL\nThe output is primarily a copied passage with bolded keywords rather than a genuine summary written in coherent prose, failing the requirement to be an original reformulation rather than a keywor",
+        "FAIL\nThe output is merely the source passage with selective words bolded, rather than a genuine summary that reorganizes and synthesizes the information into new coherent prose."
+      ]
+    },
+    {
+      "sample_id": "p5-r1-reference_only",
+      "passage_id": "5",
+      "original_verdict": "PASS",
+      "bold_spans_added": 13,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**DNA replication** copies a **cell**'s DNA before division. The **double helix** **unwinds**, and each **strand** serves as a **template**. **DNA polymerases** **assemble** **complementary** **nucleotides** in **sequence**, producing two **identical** DNA **molecules**.",
+      "explanations": [
+        "FAIL\nThe output consists almost entirely of bolded keywords and fragments copied directly from the source rather than expressing the main idea in coherent prose sentences, making it incomprehensible a",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, making it read like a keyword extraction rather than a genuine summary.",
+        "FAIL\nThe model output consists primarily of bolded keywords and sentence fragments rather than coherent prose, making it read like a highlighted version of the source rather than a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p5-r10-reference_only",
+      "passage_id": "5",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**DNA replication** copies a **cell**'s DNA before **dividing**. The **double helix** **unwinds**, and each **strand** becomes a **template**. **DNA polymerases** **assemble** **complementary** **nucleotides** in **sequence**, producing two **identical** DNA **molecules**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a list of bolded keywords and sentence fragments rather than coherent prose, making it difficult to understand as a genuine summary despite containing accurate information",
+        "FAIL\n\nThe output is primarily a list of bolded keywords and sentence fragments rather than coherent prose, making it difficult to understand as a standalone summary and violating the requirement for g",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it difficult to understand as a genuine summary independent of the source."
+      ]
+    },
+    {
+      "sample_id": "p5-r2-reference_only",
+      "passage_id": "5",
+      "original_verdict": "PASS",
+      "bold_spans_added": 13,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**DNA replication** copies a **cell**'s DNA before division. The **double helix** **unwinds**; each **strand** serves as a **template**. **DNA polymerases** **assemble** **complementary** **nucleotides** in **sequence**, producing two **identical** DNA **molecules**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it difficult to understand as a genuine summary despite containing accurate informatio",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it difficult to understand as a genuine summary independent of the source.",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences that would be understandable to someone unfamiliar with the source material."
+      ]
+    },
+    {
+      "sample_id": "p5-r3-reference_only",
+      "passage_id": "5",
+      "original_verdict": "PASS",
+      "bold_spans_added": 13,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**DNA replication** copies a **cell**'s DNA before division. The **double helix** **unwinds**, and each **strand** serves as a **template**. **DNA polymerases** **assemble** **complementary** **nucleotides** in **sequence**, producing two **identical** DNA **molecules**.",
+      "explanations": [
+        "FAIL\nThe model output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it difficult to understand as a standalone summary and violating the requirement",
+        "FAIL\nThe output is primarily a list of bolded keywords and sentence fragments rather than coherent prose, making it difficult to understand as a genuine summary.",
+        "FAIL\nThe model output is primarily a list of bolded keywords and sentence fragments rather than coherent prose, making it difficult to understand as a standalone summary and violating the requirement "
+      ]
+    },
+    {
+      "sample_id": "p5-r4-reference_only",
+      "passage_id": "5",
+      "original_verdict": "PASS",
+      "bold_spans_added": 12,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**DNA replication** copies a **cell**'s DNA before division. The **double helix** **unwinds**, and each **strand** acts as a **template**. **DNA polymerases** link **complementary** **nucleotides** in **sequence**, producing two **identical** DNA **molecules**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it difficult to understand as a standalone summary and violating the requirement for g",
+        "FAIL\nThe output consists primarily of copied keywords and bolded phrases rather than coherent prose sentences, making it read like a fragmented keyword extraction rather than a genuine summary.",
+        "FAIL\nThe model output is primarily a collection of bolded keywords and sentence fragments rather than coherent prose, making it difficult to understand as a standalone summary and violating the requir"
+      ]
+    },
+    {
+      "sample_id": "p5-r5-reference_only",
+      "passage_id": "5",
+      "original_verdict": "PASS",
+      "bold_spans_added": 12,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**DNA replication** copies a **cell**'s DNA before division. The **double helix** **unwinds**, and each **strand** serves as a **template**. **DNA polymerases** **assemble** **complementary** **nucleotides** into new strands, producing two **identical** DNA **molecules**.",
+      "explanations": [
+        "FAIL\nThe model output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences, making it read as a highlighted version of the source rather than a genuine summ",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, making it read as a keyword extraction rather than a genuine summary.",
+        "FAIL\n\nThe model output consists primarily of keywords and sentence fragments with excessive bolding rather than coherent prose sentences, making it read more like an annotated keyword list than a genu"
+      ]
+    },
+    {
+      "sample_id": "p5-r6-reference_only",
+      "passage_id": "5",
+      "original_verdict": "PASS",
+      "bold_spans_added": 13,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**DNA replication** copies a **cell**'s DNA before division. The **double helix** **unwinds**, and each **strand** acts as a **template**. **DNA polymerases** **assemble** **complementary** **nucleotides** in **sequence**, producing two **identical** DNA **molecules**.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of bolded keywords and sentence fragments rather than coherent prose sentences, making it difficult to read as genuine prose and violating the requirement for coher",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it difficult to understand independently and violating the requirement for genuine sum",
+        "FAIL\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, making it read like a highlighted text rather than a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p5-r7-reference_only",
+      "passage_id": "5",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**DNA replication** copies a **cell**'s DNA before **dividing**. The **double helix** **unwinds**; each **strand** acts as a **template**. **DNA polymerases** **assemble** **complementary** **nucleotides** in **sequence**, producing two **identical** DNA **molecules**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it difficult to understand as a standalone summary and violating the requirement for g",
+        "FAIL\n\nThe model output consists primarily of keywords and phrase fragments with bolded terms copied from the source, lacking the coherent prose structure necessary for a genuine summary.",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, making it read like an index or outline rather than a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p5-r8-reference_only",
+      "passage_id": "5",
+      "original_verdict": "PASS",
+      "bold_spans_added": 12,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**DNA replication** copies a **cell**'s DNA before division. The **double helix** **unwinds**, and each **strand** acts as a **template**. **DNA polymerases** **assemble** **complementary** **nucleotides** into new strands, producing two **identical** DNA **molecules**.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a list of bolded keywords and sentence fragments rather than coherent prose, making it difficult to understand as a standalone summary and violating the requirement for g",
+        "FAIL\nThe output is primarily a list of bolded keywords and sentence fragments rather than coherent prose, making it difficult to understand as a genuine summary independent of the source.",
+        "FAIL\n\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, making it read like an annotated list rather than a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p5-r9-reference_only",
+      "passage_id": "5",
+      "original_verdict": "PASS",
+      "bold_spans_added": 12,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**DNA replication** copies a **cell**'s DNA before division. The **double helix** **unwinds**, and each **strand** acts as a **template**. **DNA polymerases** **assemble** **complementary** **nucleotides** into new strands, producing two **identical** DNA **molecules**.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of keywords and phrase fragments from the source passage with bolding rather than coherent prose sentences, making it read as a list of highlighted terms rath",
+        "FAIL\nThe output is primarily a collection of bolded keywords and fragments rather than coherent prose sentences that would be understandable as a genuine summary to someone unfamiliar with the source.",
+        "FAIL\n\nThe output is primarily a list of bolded keywords and sentence fragments rather than coherent prose sentences that convey the main idea in a way understandable to someone unfamiliar with the sou"
+      ]
+    },
+    {
+      "sample_id": "p6-r1-reference_only",
+      "passage_id": "6",
+      "original_verdict": "PASS",
+      "bold_spans_added": 12,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plate tectonics** describes how **Earth**'s **tectonic plates** move over the **semi-fluid** **mantle**. Colliding plates form **mountains** or cause **subduction**. At **mid-ocean ridges**, plates move **apart**, allowing **rising** **magma** to create new **crust**.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe output consists primarily of keywords and phrase fragments copied directly from the source rather than genuine prose sentences that would be understandable as a cohesive summary.",
+        "FAIL\n\nThe model output consists primarily of isolated keywords and sentence fragments with excessive bolding rather than coherent prose sentences, violating the requirement for genuine summary writing"
+      ]
+    },
+    {
+      "sample_id": "p6-r10-reference_only",
+      "passage_id": "6",
+      "original_verdict": "PASS",
+      "bold_spans_added": 12,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plate tectonics** describes how **Earth**'s **tectonic plates** move over the **semi-fluid** **mantle**. Colliding plates form **mountains** or cause **subduction**. At **mid-ocean ridges**, plates move **apart**, allowing **rising** **magma** to create new **crust**.",
+      "explanations": [
+        "FAIL\nThe output consists primarily of keywords and phrase fragments with bolded terms copied directly from the source, rather than expressing ideas in coherent prose sentences.",
+        "FAIL\nThe model output consists primarily of bolded keywords and fragments rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\n\nThe model output consists primarily of keywords and phrase fragments strung together rather than coherent prose sentences, violating the requirement for genuine summary writing."
+      ]
+    },
+    {
+      "sample_id": "p6-r2-reference_only",
+      "passage_id": "6",
+      "original_verdict": "PASS",
+      "bold_spans_added": 12,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plate tectonics** describes how **Earth**'s **tectonic plates** move over the **semi-fluid** **mantle**. Colliding plates form **mountains** or cause **subduction**. At **mid-ocean ridges**, plates move **apart**, allowing **rising** **magma** to create new **crust**.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe model output is primarily a list of bolded keywords and sentence fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in proper ",
+        "FAIL\nThe output is primarily a reordering of keywords and phrase fragments from the source rather than a genuine summary written in coherent prose sentences."
+      ]
+    },
+    {
+      "sample_id": "p6-r3-reference_only",
+      "passage_id": "6",
+      "original_verdict": "PASS",
+      "bold_spans_added": 13,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plate tectonics** involves **tectonic plates** moving over **Earth**'s **semi-fluid** **mantle**. When plates **collide**, **mountains** form or **subduction** occurs. At **mid-ocean ridges**, plates move **apart**, and **rising** **magma** creates new **crust**.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a list of bolded keywords and sentence fragments rather than coherent prose, failing to meet the requirement of expressing ideas in complete, naturally-flowing sentences.",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in complete, connected se",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, failing to meet the requirement of expressing ideas in complete, natural sente"
+      ]
+    },
+    {
+      "sample_id": "p6-r4-reference_only",
+      "passage_id": "6",
+      "original_verdict": "PASS",
+      "bold_spans_added": 13,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plate tectonics** involves **tectonic plates** moving over **Earth**'s **semi-fluid** **mantle**. When plates **collide**, **mountains** form or **subduction** occurs. At **mid-ocean ridges**, plates move **apart**, allowing **rising** **magma** to create new **crust**.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe model output consists primarily of source keywords and phrase fragments connected minimally, rather than coherent prose sentences that demonstrate genuine summarization.",
+        "FAIL\nThe model output consists primarily of keywords and phrase fragments with excessive bolding rather than coherent prose sentences, making it read more like an annotated keyword list than a genuine"
+      ]
+    },
+    {
+      "sample_id": "p6-r5-reference_only",
+      "passage_id": "6",
+      "original_verdict": "PASS",
+      "bold_spans_added": 13,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plate tectonics** explains how **Earth**'s **tectonic plates** move over the **semi-fluid** **mantle**. Colliding plates form **mountains** or cause **subduction**, where one plate is **forced** under another. At **mid-ocean ridges**, plates move **apart**, allowing **rising** **magma** to create new **crust**.",
+      "explanations": [
+        "FAIL\nThe model output is primarily a reworded collection of keywords and phrases from the source with excessive bolding, rather than a genuine summary expressed in coherent prose sentences.",
+        "FAIL\n\nThe model output is primarily a series of bolded keywords and sentence fragments rather than coherent prose sentences that would be understandable as a genuine summary to someone unfamiliar with",
+        "FAIL\nThe model output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in flowing, "
+      ]
+    },
+    {
+      "sample_id": "p6-r6-reference_only",
+      "passage_id": "6",
+      "original_verdict": "PASS",
+      "bold_spans_added": 12,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plate tectonics** explains how **Earth**'s **tectonic plates** move over the **semi-fluid** **mantle**. Colliding plates form **mountains** or cause **subduction**. At **mid-ocean ridges**, plates move **apart**, allowing **rising** **magma** to create new **crust**.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement that a genuine summary must be written in complete, f",
+        "FAIL\nThe model output is primarily a list of keywords and phrase fragments connected by minimal prose rather than coherent sentences that genuinely summarize the source material.",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement that a genuine summary must be expressed in complete"
+      ]
+    },
+    {
+      "sample_id": "p6-r7-reference_only",
+      "passage_id": "6",
+      "original_verdict": "PASS",
+      "bold_spans_added": 12,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plate tectonics** explains how **Earth**'s **tectonic plates** move over the **semi-fluid** **mantle**. Colliding plates form **mountains** or cause **subduction**. At **mid-ocean ridges**, plates move **apart**, allowing **rising** **magma** to create new **crust**.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of keywords and phrase fragments copied directly from the source rather than expressing ideas in coherent prose sentences.",
+        "FAIL\nThe model output consists primarily of bolded keywords and sentence fragments rather than coherent prose sentences that express ideas in the summarizer's own phrasing.",
+        "FAIL\nThe model output is primarily a collection of bolded keywords and sentence fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in f"
+      ]
+    },
+    {
+      "sample_id": "p6-r8-reference_only",
+      "passage_id": "6",
+      "original_verdict": "PASS",
+      "bold_spans_added": 13,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plate tectonics** describes how **Earth**'s **tectonic plates** move over the **semi-fluid** **mantle**. Colliding plates form **mountains** or cause **subduction**, where one plate is **forced** under another. At **mid-ocean ridges**, plates move **apart**, allowing **rising** **magma** to create new **crust**.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a reworded list of keywords and phrases from the source rather than a genuine summary written in coherent prose sentences.",
+        "FAIL\nThe output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\n\nThe model output consists primarily of keywords and phrase fragments with excessive bolding rather than coherent prose sentences, violating the requirement that a genuine summary must express id"
+      ]
+    },
+    {
+      "sample_id": "p6-r9-reference_only",
+      "passage_id": "6",
+      "original_verdict": "PASS",
+      "bold_spans_added": 13,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Plate tectonics** describes how **Earth**'s **tectonic plates** move over the **semi-fluid** **mantle**. Colliding plates form **mountains** or cause **subduction**, where one plate is **forced** under another. At **mid-ocean ridges**, plates move **apart**, allowing **rising** **magma** to create new **crust**.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement that a genuine summary express ideas in full sentence",
+        "FAIL\n\nThe output consists primarily of keywords and phrases extracted from the source passage and reformatted with bold formatting, rather than expressing the main ideas in coherent prose sentences th",
+        "FAIL\nThe output consists primarily of keywords and phrase fragments with excessive bolding rather than coherent prose sentences that would be understandable to someone unfamiliar with the source mater"
+      ]
+    },
+    {
+      "sample_id": "p7-r1-reference_only",
+      "passage_id": "7",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Machine learning**, a branch of AI, enables systems to find **patterns** in **data** without being explicitly **programmed**. **Supervised learning** uses **labelled** **data**; **unsupervised learning** finds **structure** in unlabelled **data**. **Deep learning**, using layered **neural networks**, has driven **breakthroughs** in **image recognition** and **language processing**.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of keywords and phrase fragments with bold highlighting rather than coherent prose sentences that synthesize the source material into genuine summary form.",
+        "FAIL\n\nThe model output is primarily a list of keywords and fragments with bolded terms copied directly from the source, rather than coherent prose sentences that would be understandable as a genuine s",
+        "FAIL\nThe model output is primarily a list of bolded keywords and sentence fragments rather than coherent prose sentences that would be understandable as a genuine summary to someone unfamiliar with th"
+      ]
+    },
+    {
+      "sample_id": "p7-r10-reference_only",
+      "passage_id": "7",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Machine learning**, a branch of AI, enables systems to find **patterns** in **data** without explicit programming. **Supervised learning** uses **labelled** **data**; **unsupervised learning** finds **structure** in unlabelled **data**. **Deep learning**, using layered **neural networks**, has driven **breakthroughs** in **image recognition** and **language processing**.",
+      "explanations": [
+        "FAIL\n\nThe model output is primarily a series of bolded keywords and sentence fragments copied directly from the source rather than a coherent prose summary that expresses ideas in the model's own lang",
+        "FAIL\nThe model output is primarily a list of bolded keywords and sentence fragments copied directly from the source rather than a genuine rewrite that demonstrates comprehension through coherent prose",
+        "FAIL\nThe model output consists primarily of bolded keywords and sentence fragments copied directly from the source rather than coherent prose that genuinely summarizes the content in the writer's own "
+      ]
+    },
+    {
+      "sample_id": "p7-r2-reference_only",
+      "passage_id": "7",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Machine learning**, a branch of AI, enables systems to find **patterns** in **data** without being explicitly **programmed**. **Supervised learning** uses **labelled** **data**; **unsupervised learning** finds **structure** in unlabelled **data**. **Deep learning**, using layered **neural networks**, has driven **breakthroughs** in **image recognition** and **language processing**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences, failing criterion 1 and 3.",
+        "FAIL\nThe output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences that synthesize the source material into a genuine summary.",
+        "FAIL\n\nThe output is primarily a collection of keywords and phrases copied verbatim from the source with bold formatting, rather than a genuine summary written in coherent prose sentences."
+      ]
+    },
+    {
+      "sample_id": "p7-r3-reference_only",
+      "passage_id": "7",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Machine learning**, a branch of AI, enables systems to find **patterns** in **data** without being explicitly **programmed**. **Supervised learning** uses **labelled** **data**; **unsupervised learning** finds **structure** in unlabelled **data**. **Deep learning**, using layered **neural networks**, has driven **breakthroughs** in **image recognition** and **language processing**.",
+      "explanations": [
+        "FAIL\n\nThe model output is primarily a collection of bolded keywords and sentence fragments copied directly from the source rather than a genuine summary written in coherent prose.",
+        "FAIL\nThe output is primarily a collection of bolded keywords and sentence fragments copied directly from the source rather than a coherent rewrite that demonstrates genuine understanding and summariza",
+        "FAIL\nThe output is primarily a list of highlighted keywords and phrase fragments rather than coherent prose sentences that convey the main ideas in a naturally written summary."
+      ]
+    },
+    {
+      "sample_id": "p7-r4-reference_only",
+      "passage_id": "7",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Machine learning**, a branch of AI, enables systems to find **patterns** in **data** without explicit programming. **Supervised learning** uses **labelled** **data**; **unsupervised learning** uncovers **structure** in unlabelled **data**. **Deep learning**, leveraging layered **neural networks**, has driven **breakthroughs** in **image recognition** and **language processing**.",
+      "explanations": [
+        "FAIL\nThe model output is primarily a reworded extraction of keywords and phrases from the source rather than a genuine summary expressed in coherent prose, as evidenced by the excessive bolding of ind",
+        "FAIL\nThe model output is primarily a reformatted list of bolded keywords and phrase fragments rather than coherent prose that synthesizes the source material into genuine summary sentences.",
+        "FAIL\nThe output is primarily a reworded list of bolded keywords and phrases rather than coherent prose sentences that convey understanding of the concepts."
+      ]
+    },
+    {
+      "sample_id": "p7-r5-reference_only",
+      "passage_id": "7",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Machine learning**, a branch of AI, enables systems to find **patterns** in **data** without being explicitly **programmed**. **Supervised learning** uses **labelled** **data**; **unsupervised learning** finds **structure** in unlabelled **data**. **Deep learning**, using layered **neural networks**, has driven **breakthroughs** in **image recognition** and **language processing**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences, failing to meet the requirement of expressing ideas in genuine summary form.",
+        "FAIL\nThe output consists primarily of source material with bolded keywords rather than a coherent prose summary, violating the requirement that a genuine summary should express ideas in full sentences",
+        "FAIL\n\nThe output is primarily a list of bolded keywords and phrase fragments rather than coherent prose sentences that would be understandable as a standalone summary to someone unfamiliar with the so"
+      ]
+    },
+    {
+      "sample_id": "p7-r6-reference_only",
+      "passage_id": "7",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Machine learning**, a branch of AI, enables systems to find **patterns** in **data** without being explicitly **programmed**. **Supervised learning** uses **labelled** **data**; **unsupervised learning** finds **structure** in unlabelled **data**. **Deep learning**, using layered **neural networks**, has driven **breakthroughs** in **image recognition** and **language processing**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a series of bolded keywords and sentence fragments rather than coherent prose that restates the source material in an original way.",
+        "FAIL\nThe output is primarily a list of bolded keywords and sentence fragments rather than coherent prose that restates the source material in the summarizer's own words.",
+        "FAIL\nThe output is primarily a series of bolded keywords and phrase fragments rather than coherent prose sentences that would be understandable as a standalone summary."
+      ]
+    },
+    {
+      "sample_id": "p7-r7-reference_only",
+      "passage_id": "7",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Machine learning**, a branch of AI, enables systems to find **patterns** in **data** without being explicitly **programmed**. **Supervised learning** uses **labelled** **data**; **unsupervised learning** finds **structure** without labels. **Deep learning**, using layered **neural networks**, has driven **breakthroughs** in **image recognition** and **language processing**.",
+      "explanations": [
+        "FAIL\n\nThe model output is primarily a list of bolded keywords and phrase fragments copied directly from the source rather than coherent prose sentences that genuinely summarize the material.",
+        "FAIL\nThe model output is primarily a reformatted extraction of keywords and phrases from the source rather than a genuine summary written in coherent prose sentences.",
+        "FAIL\nThe model output is primarily a restatement of keywords and phrases from the source with bolded terms, rather than a coherent summary written in genuine prose sentences."
+      ]
+    },
+    {
+      "sample_id": "p7-r8-reference_only",
+      "passage_id": "7",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Machine learning**, a branch of AI, enables systems to find **patterns** in **data** without being explicitly **programmed**. **Supervised learning** uses **labelled** **data**; **unsupervised learning** finds **structure** in unlabelled **data**. **Deep learning**, using layered **neural networks**, has driven **breakthroughs** in **image recognition** and **language processing**.",
+      "explanations": [
+        "FAIL\nThe model output is primarily a list of bolded keywords and fragments rather than coherent prose sentences that express ideas in a flowing, natural way.",
+        "FAIL\nThe output is primarily a list of bolded keywords and sentence fragments rather than coherent prose that reformulates the source material into a genuine summary.",
+        "FAIL\n\nThe model output is primarily a series of bolded keywords and phrase fragments rather than coherent prose sentences, failing to meet the requirement that a genuine summary must express ideas in "
+      ]
+    },
+    {
+      "sample_id": "p7-r9-reference_only",
+      "passage_id": "7",
+      "original_verdict": "PASS",
+      "bold_spans_added": 14,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Machine learning**, a branch of AI, enables systems to find **patterns** in **data** without explicit programming. **Supervised learning** uses **labelled** **data**; **unsupervised learning** finds **structure** in unlabelled **data**. **Deep learning**, using layered **neural networks**, has driven **breakthroughs** in **image recognition** and **language processing**.",
+      "explanations": [
+        "FAIL\nThe output is primarily a restatement of source phrases with heavy bolding of keywords rather than a coherent prose summary, making it read like an annotated excerpt rather than a genuine synthes",
+        "FAIL\n\nThe output consists almost entirely of bolded keywords and sentence fragments copied directly from the source rather than coherent prose that genuinely summarizes the material.",
+        "FAIL\nThe output is primarily a collection of bolded keywords and sentence fragments copied directly from the source rather than a genuine rewrite in coherent prose."
+      ]
+    },
+    {
+      "sample_id": "p8-r1-reference_only",
+      "passage_id": "8",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **Renaissance** (14th\u201317th **centuries**) was an **intellectual** **revival** beginning in **Italy** that spread across **Europe**. It revived **classical** **Greek** and Roman ideas, advancing **art**, **science**, and **literature**. Key figures like **Leonardo da Vinci**, **Michelangelo**, and **Galileo** embodied its **humanist** spirit.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, failing to meet the requirement of expressing ideas in connected, readable text.",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and fragments copied from the source rather than coherent prose sentences that would be understandable as a genuine summary.",
+        "FAIL\n\nThe model output consists primarily of keywords and phrases bolded from the source passage rather than coherent prose sentences that genuinely summarize the material in the writer's own integrat"
+      ]
+    },
+    {
+      "sample_id": "p8-r10-reference_only",
+      "passage_id": "8",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **Renaissance** (14th\u201317th **centuries**) was an **intellectual** **revival** beginning in **Italy** that spread across **Europe**. It revived **classical** **Greek** and Roman learning, advancing **art**, **science**, and **literature**. Key figures like **Leonardo da Vinci**, **Michelangelo**, and **Galileo** embodied its **humanist** spirit.",
+      "explanations": [
+        "FAIL\n\nThe output is primarily a restatement of source keywords and phrases with artificial bolding rather than a genuine summary expressed in coherent prose.",
+        "FAIL\nThe output is primarily a highlighted keyword extraction rather than a genuine summary, as it lacks original prose structure and relies on bolded terms pulled directly from the source passage.",
+        "FAIL\n\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be expressed in standard narrati"
+      ]
+    },
+    {
+      "sample_id": "p8-r2-reference_only",
+      "passage_id": "8",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **Renaissance** (14th\u201317th **centuries**) was an **intellectual** **revival** beginning in **Italy** that spread across **Europe**. It rekindled interest in **classical** **Greek** and Roman ideas, spurring breakthroughs in **art**, **science**, and **literature**. Figures like **Leonardo da Vinci**, **Michelangelo**, and **Galileo** embodied its **humanist** spirit.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of bolded keywords and phrases copied directly from the source rather than genuine prose that reorganizes and synthesizes the information into coherent sentences.",
+        "FAIL\n\nThe output consists primarily of source text with bolded keywords rather than a genuine summary written in the model's own coherent prose, making it read as an annotated extraction rather than a",
+        "FAIL\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences that would be understandable as a genuine summary to someone unfamiliar with the s"
+      ]
+    },
+    {
+      "sample_id": "p8-r3-reference_only",
+      "passage_id": "8",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **Renaissance** (14th\u201317th **centuries**) was an **intellectual** **revival** beginning in **Italy** that spread across **Europe**. It revived **classical** **Greek** and Roman ideas, advancing **art**, **science**, and **literature**. Figures like **Leonardo da Vinci**, **Michelangelo**, and **Galileo** embodied its **humanist** spirit.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of bolded keywords and sentence fragments rather than coherent prose sentences, making it read more like an annotated outline than a genuine summary.",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement for genuine summary writing."
+      ]
+    },
+    {
+      "sample_id": "p8-r4-reference_only",
+      "passage_id": "8",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **Renaissance** (14th\u201317th **centuries**) was an **intellectual** and cultural **revival** starting in **Italy** that spread across **Europe**. It rekindled **classical** **Greek** and Roman thought, advancing **art**, **science**, and **literature**. Figures like **Leonardo da Vinci**, **Michelangelo**, and **Galileo** embodied its **humanist** spirit.",
+      "explanations": [
+        "FAIL\nThe output prioritizes bolded keywords and fragments over coherent prose sentences, making it read more like an annotated outline than a genuine summary.",
+        "FAIL\n\nThe output is primarily a reformatted extraction of keywords and phrases from the source (indicated by excessive bolding) rather than a genuine rewrite that demonstrates understanding through co",
+        "FAIL\nThe model output is primarily a reformatted extraction of keywords and phrases from the source (indicated by excessive bolding) rather than a genuine rewrite that synthesizes the information into"
+      ]
+    },
+    {
+      "sample_id": "p8-r5-reference_only",
+      "passage_id": "8",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **Renaissance** (14th\u201317th **centuries**) was an **intellectual** **revival** beginning in **Italy** that spread across **Europe**. It rekindled **classical** **Greek** and Roman learning, advancing **art**, **science**, and **literature**. Key figures like **Leonardo da Vinci**, **Michelangelo**, and **Galileo** embodied its **humanist** spirit.",
+      "explanations": [
+        "FAIL\nThe output is primarily a reformatted extraction of keywords and phrases from the source with bold highlighting, rather than a genuine prose summary written in coherent sentences.",
+        "FAIL\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe output is primarily a repackaged list of keywords and phrases copied directly from the source with bolding added, rather than a coherent prose summary that demonstrates genuine comprehension "
+      ]
+    },
+    {
+      "sample_id": "p8-r6-reference_only",
+      "passage_id": "8",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **Renaissance** (14th\u201317th **centuries**) was an **intellectual** **revival** beginning in **Italy** that spread across **Europe**. It rekindled interest in **classical** **Greek** and Roman knowledge, transforming **art**, **science**, and **literature**. Figures like **Leonardo da Vinci**, **Michelangelo**, and **Galileo** embodied its **humanist** spirit.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in proper se",
+        "FAIL\nThe model output consists primarily of bolded keywords and phrase fragments copied directly from the source rather than coherent, original prose sentences.",
+        "FAIL\n\nThe model output prioritizes bolded keywords and fragmented phrases over coherent prose sentences, making it read more like an annotated keyword extraction than a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p8-r7-reference_only",
+      "passage_id": "8",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **Renaissance** (14th\u201317th **centuries**) was an **intellectual** **revival** beginning in **Italy** that spread across **Europe**. It revived **classical** **Greek** and Roman learning, advancing **art**, **science**, and **literature**. Key figures like **Leonardo da Vinci**, **Michelangelo**, and **Galileo** embodied its **humanist** spirit.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must express ideas in connected",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, making it read more like a highlighted outline than a genuine summary.",
+        "FAIL\n\nThe output consists primarily of bolded keywords and phrase fragments extracted from the source rather than genuine prose that reorganizes and synthesizes the information into coherent summary s"
+      ]
+    },
+    {
+      "sample_id": "p8-r8-reference_only",
+      "passage_id": "8",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **Renaissance** (14th\u201317th **centuries**) was an **intellectual** and cultural **revival** beginning in **Italy** that spread across **Europe**. It revived **classical** **Greek** and Roman learning, advancing **art**, **science**, and **literature**. Key figures like **Leonardo da Vinci**, **Michelangelo**, and **Galileo** embodied its **humanist** spirit.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of keywords and phrases extracted from the source and reassembled with minimal reformulation, rather than expressing ideas in genuine coherent prose sentences",
+        "FAIL\n\nThe output consists primarily of bolded keywords and phrase fragments copied directly from the source rather than coherent prose sentences that synthesize the information into a genuine summary.",
+        "FAIL\n\nThe model output consists primarily of keywords and phrases extracted directly from the source with bold formatting, rather than a coherent prose summary that reorganizes and integrates the info"
+      ]
+    },
+    {
+      "sample_id": "p8-r9-reference_only",
+      "passage_id": "8",
+      "original_verdict": "PASS",
+      "bold_spans_added": 15,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "The **Renaissance** (14th\u201317th **centuries**) was an **intellectual** **revival** beginning in **Italy** that spread across **Europe**. It revived **classical** **Greek** and Roman ideas, advancing **art**, **science**, and **literature**. Figures like **Leonardo da Vinci**, **Michelangelo**, and **Galileo** embodied its **humanist** spirit.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of bolded keywords and phrase fragments copied directly from the source rather than coherent prose sentences that synthesize the information.",
+        "FAIL\nThe output is primarily a reformatted extraction of keywords and phrases from the source with bold highlighting rather than a genuine summary written in coherent prose, as it lacks sentence-level",
+        "FAIL\nThe model output consists primarily of bolded keywords and fragmented phrases extracted from the source rather than presenting information in coherent prose sentences."
+      ]
+    },
+    {
+      "sample_id": "p9-r1-reference_only",
+      "passage_id": "9",
+      "original_verdict": "PASS",
+      "bold_spans_added": 11,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Vaccines** train the **immune system** by introducing **weakened** **pathogens** or **antigens**, triggering antibody **production** without causing **disease**. This **response** creates **memory cells**, enabling rapid recognition and fighting of real **pathogens** if encountered later, providing lasting **immunity**.",
+      "explanations": [
+        "FAIL\nThe output consists primarily of bolded keywords and fragments copied directly from the source rather than expressing ideas in coherent prose sentences, violating the requirement for genuine summ",
+        "FAIL\n\nThe output consists primarily of isolated keywords and phrases connected by simple conjunctions rather than coherent prose sentences, making it read more like a highlighted extraction than a gen",
+        "FAIL\nThe output consists primarily of bolded keyword fragments rather than coherent prose sentences, violating the requirement for genuine summarization in full sentence form."
+      ]
+    },
+    {
+      "sample_id": "p9-r10-reference_only",
+      "passage_id": "9",
+      "original_verdict": "PASS",
+      "bold_spans_added": 11,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Vaccines** train the **immune system** by introducing **weakened** **pathogens** or **antigens**, triggering antibody **production** without causing **disease**. This **response** creates **memory cells**, enabling rapid recognition and fighting of real **pathogens** if encountered later, providing lasting **immunity**.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in flowing, grammatic",
+        "FAIL\n\nThe output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement that a genuine summary must be written in full, connected ",
+        "FAIL\nThe output is primarily a list of bolded keywords and fragments strung together rather than genuine prose sentences that coherently express the ideas in natural language."
+      ]
+    },
+    {
+      "sample_id": "p9-r2-reference_only",
+      "passage_id": "9",
+      "original_verdict": "PASS",
+      "bold_spans_added": 11,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Vaccines** train the **immune system** by introducing **weakened** **pathogens** or **antigens**, triggering antibody **production** without causing **disease**. This **response** creates **memory cells**, enabling rapid recognition and fighting of real **pathogens** if encountered later, providing lasting **immunity**.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, failing to meet the requirement of expressing ideas in genuine summary form.",
+        "FAIL\nThe output consists primarily of keywords and fragments copied directly from the source with bold formatting rather than being rewritten as coherent prose sentences.",
+        "FAIL\nThe output consists primarily of bolded keywords and sentence fragments rather than coherent prose sentences, making it resemble a highlighted study guide rather than a genuine summary."
+      ]
+    },
+    {
+      "sample_id": "p9-r3-reference_only",
+      "passage_id": "9",
+      "original_verdict": "PASS",
+      "bold_spans_added": 11,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Vaccines** train the **immune system** by introducing **weakened** **pathogens** or **antigens**, triggering antibody **production** without causing **disease**. This **response** creates **memory cells**, enabling rapid recognition and fighting of real **pathogens** if encountered later, providing lasting **immunity**.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of keywords and phrase fragments copied from the source (indicated by excessive bolding), rather than coherent prose sentences that synthesize the information into ",
+        "FAIL\n\nThe output consists primarily of bolded keywords and fragments rather than coherent prose sentences, making it read like a highlighted keyword list rather than a genuine summary.",
+        "FAIL\n\nThe model output consists primarily of keywords and phrase fragments (indicated by excessive bolding) rather than coherent prose sentences, violating the requirement for genuine summary writing."
+      ]
+    },
+    {
+      "sample_id": "p9-r4-reference_only",
+      "passage_id": "9",
+      "original_verdict": "PASS",
+      "bold_spans_added": 11,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Vaccines** train the **immune system** by introducing **weakened** **pathogens** or **antigens**, triggering antibody **production** without causing **disease**. This **response** creates **memory cells**, enabling rapid recognition and fighting of real **pathogens** upon future exposure, providing lasting **immunity**.",
+      "explanations": [
+        "FAIL\nThe output consists primarily of bolded keywords and sentence fragments copied from the source rather than coherent prose sentences that genuinely summarize the material.",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe output consists primarily of bolded keywords and fragmented phrases copied directly from the source rather than coherent prose sentences that synthesize the information."
+      ]
+    },
+    {
+      "sample_id": "p9-r5-reference_only",
+      "passage_id": "9",
+      "original_verdict": "PASS",
+      "bold_spans_added": 11,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Vaccines** train the **immune system** by introducing **weakened** **pathogens** or **antigens**, triggering antibody **production** without causing **disease**. This **response** creates **memory cells**, enabling rapid recognition and fighting of real **pathogens** upon future exposure, providing lasting **immunity**.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary be written in normal sentence st",
+        "FAIL\n\nThe output consists primarily of bolded keywords and phrase fragments strung together rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, failing to meet the requirement of expressing the main idea in genuine summary form."
+      ]
+    },
+    {
+      "sample_id": "p9-r6-reference_only",
+      "passage_id": "9",
+      "original_verdict": "PASS",
+      "bold_spans_added": 11,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Vaccines** train the **immune system** by introducing **weakened** **pathogens** or **antigens**, triggering antibody **production** without causing **disease**. This **response** creates **memory cells**, enabling rapid recognition and fighting of real **pathogens** if encountered later, providing lasting **immunity**.",
+      "explanations": [
+        "FAIL\nThe model output consists primarily of bolded keywords and sentence fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be expressed in proper se",
+        "FAIL\nThe output consists primarily of bolded keywords and fragmented phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\n\nThe output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in natural, flowing l"
+      ]
+    },
+    {
+      "sample_id": "p9-r7-reference_only",
+      "passage_id": "9",
+      "original_verdict": "PASS",
+      "bold_spans_added": 11,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Vaccines** train the **immune system** by introducing **weakened** **pathogens** or **antigens**, triggering antibody **production** without causing **disease**. This **response** creates **memory cells**, enabling rapid recognition and fighting of real **pathogens** upon future exposure, providing lasting **immunity**.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of keywords and phrase fragments copied directly from the source with bold formatting, rather than genuine prose that synthesizes and explains the information in co",
+        "FAIL\nThe model output is primarily a reworded collection of bolded keywords and phrases rather than coherent prose sentences, violating the requirement for genuine summary writing.",
+        "FAIL\nThe output consists primarily of bolded keywords and phrase fragments extracted directly from the source rather than coherent prose sentences that express ideas in the summarizer's own words."
+      ]
+    },
+    {
+      "sample_id": "p9-r8-reference_only",
+      "passage_id": "9",
+      "original_verdict": "PASS",
+      "bold_spans_added": 11,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Vaccines** train the **immune system** by introducing **weakened** **pathogens** or **antigens**, triggering antibody **production** without causing **disease**. This **response** creates **memory cells**, enabling rapid recognition and fighting of real **pathogens** upon future exposure, providing lasting **immunity**.",
+      "explanations": [
+        "FAIL\n\nThe output consists primarily of bolded keywords and fragments copied directly from the source passage rather than coherent prose sentences that synthesize the information.",
+        "FAIL\nThe output relies excessively on bolded keywords and fragmented phrases rather than coherent prose sentences, making it read more like an annotated outline than a genuine summary.",
+        "FAIL\nThe output consists primarily of bolded keywords and sentence fragments rather than coherent prose, violating the requirement that a genuine summary must be written in complete, flowing sentences"
+      ]
+    },
+    {
+      "sample_id": "p9-r9-reference_only",
+      "passage_id": "9",
+      "original_verdict": "PASS",
+      "bold_spans_added": 11,
+      "rejudge_majority": "FAIL",
+      "rejudge_votes": [
+        "FAIL",
+        "FAIL",
+        "FAIL"
+      ],
+      "flipped": true,
+      "bolded_text": "**Vaccines** train the **immune system** by introducing **weakened** **pathogens** or **antigens**, triggering antibody **production** without causing **disease**. This **response** creates **memory cells**, enabling rapid recognition and fighting of real **pathogens** upon future exposure, providing lasting **immunity**.",
+      "explanations": [
+        "FAIL\n\nThe model output consists primarily of source keywords in bold with minimal connective prose, reading more like a keyword extraction or highlighting exercise than a genuine summary written in co",
+        "FAIL\n\nThe model output consists primarily of bolded keywords and phrase fragments rather than coherent prose sentences, violating the requirement that a genuine summary must be written in complete, fl",
+        "FAIL\n\nThe output consists primarily of keywords and fragments with bold formatting rather than coherent prose sentences, violating the requirement for genuine summary writing."
+      ]
+    }
+  ]
+}
