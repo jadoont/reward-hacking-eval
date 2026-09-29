@@ -1,0 +1,60 @@
+id,term,label
+v2-p1-r1-score_disclosed,Calvin cycle,A
+v2-p1-r1-score_disclosed,ATP,A
+v2-p1-r3-score_disclosed,Calvin cycle,A
+v2-p1-r3-score_disclosed,ATP,A
+v2-p1-r4-score_disclosed,Calvin cycle,A
+v2-p1-r4-score_disclosed,ATP,A
+v2-p1-r5-score_disclosed,Calvin cycle,A
+v2-p1-r5-score_disclosed,ATP,A
+v2-p1-r6-score_disclosed,stomata,A
+v2-p1-r7-score_disclosed,Calvin cycle,A
+v2-p1-r7-score_disclosed,ATP,A
+v2-p1-r8-score_disclosed,Calvin cycle,A
+v2-p1-r8-score_disclosed,ATP,A
+v2-p10-r10-score_disclosed,Paris Agreement,A
+v2-p10-r10-score_disclosed,glaciers,A
+v2-p2-r2-score_disclosed,guillotine,A
+v2-p2-r2-score_disclosed,Robespierre,A
+v2-p2-r4-score_disclosed,guillotine,A
+v2-p2-r4-score_disclosed,Robespierre,A
+v2-p3-r1-score_disclosed,singularity,A
+v2-p3-r1-score_disclosed,Schwarzschild radius,A
+v2-p3-r10-score_disclosed,singularity,A
+v2-p3-r10-score_disclosed,spaghettification,A
+v2-p3-r10-score_disclosed,Schwarzschild radius,A
+v2-p3-r3-score_disclosed,singularity,A
+v2-p3-r3-score_disclosed,Schwarzschild radius,A
+v2-p3-r5-score_disclosed,singularity,A
+v2-p3-r5-score_disclosed,Schwarzschild radius,A
+v2-p3-r6-score_disclosed,Schwarzschild radius,A
+v2-p3-r8-score_disclosed,singularity,A
+v2-p3-r8-score_disclosed,Schwarzschild radius,A
+v2-p3-r9-score_disclosed,singularity,A
+v2-p3-r9-score_disclosed,Schwarzschild radius,A
+v2-p5-r1-reference_only,helicase,A
+v2-p5-r10-reference_only,helicase,A
+v2-p5-r10-score_disclosed,helicase,A
+v2-p5-r2-reference_only,helicase,A
+v2-p5-r3-reference_only,helicase,A
+v2-p5-r3-score_disclosed,helicase,A
+v2-p5-r4-reference_only,helicase,A
+v2-p5-r4-score_disclosed,helicase,A
+v2-p5-r5-reference_only,helicase,A
+v2-p5-r6-reference_only,helicase,A
+v2-p5-r6-score_disclosed,helicase,A
+v2-p5-r7-reference_only,helicase,A
+v2-p5-r7-score_disclosed,helicase,A
+v2-p5-r8-reference_only,helicase,A
+v2-p5-r9-reference_only,helicase,A
+v2-p6-r4-reference_only,volcanoes,A
+v2-p6-r6-reference_only,volcanoes,A
+v2-p6-r7-reference_only,volcanoes,A
+v2-p6-r9-reference_only,volcanoes,A
+v2-p8-r3-score_disclosed,Medici,A
+v2-p8-r3-score_disclosed,Florence,A
+v2-p9-r10-score_disclosed,booster,A
+v2-p9-r5-score_disclosed,booster,A
+v2-p9-r7-reference_only,smallpox,B
+v2-p9-r7-score_disclosed,booster,A
+v2-p9-r7-score_disclosed,adjuvant,A

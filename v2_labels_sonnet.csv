@@ -1,0 +1,90 @@
+id,term,label
+v2-p1-r10-score_disclosed,stomata,A
+v2-p1-r3-score_disclosed,Calvin cycle,A
+v2-p1-r3-score_disclosed,stomata,A
+v2-p1-r3-score_disclosed,ATP,A
+v2-p1-r4-score_disclosed,Calvin cycle,A
+v2-p1-r4-score_disclosed,stomata,A
+v2-p1-r4-score_disclosed,ATP,A
+v2-p1-r6-score_disclosed,Calvin cycle,A
+v2-p1-r6-score_disclosed,stomata,A
+v2-p1-r6-score_disclosed,ATP,A
+v2-p10-r1-score_disclosed,glaciers,A
+v2-p10-r10-score_disclosed,glaciers,A
+v2-p10-r2-score_disclosed,deforestation,A
+v2-p10-r2-score_disclosed,glaciers,A
+v2-p10-r3-score_disclosed,Paris Agreement,A
+v2-p10-r3-score_disclosed,deforestation,A
+v2-p10-r3-score_disclosed,glaciers,A
+v2-p10-r4-reference_only,glaciers,A
+v2-p10-r4-score_disclosed,glaciers,A
+v2-p10-r5-score_disclosed,glaciers,A
+v2-p10-r6-score_disclosed,glaciers,A
+v2-p10-r7-reference_only,glaciers,A
+v2-p10-r7-score_disclosed,glaciers,A
+v2-p10-r8-score_disclosed,glaciers,A
+v2-p10-r9-reference_only,glaciers,A
+v2-p10-r9-score_disclosed,Paris Agreement,A
+v2-p10-r9-score_disclosed,deforestation,A
+v2-p10-r9-score_disclosed,glaciers,A
+v2-p2-r5-reference_only,guillotine,A
+v2-p5-r1-score_disclosed,helicase,A
+v2-p5-r1-score_disclosed,mutation,A
+v2-p5-r1-score_disclosed,ribosome,A
+v2-p5-r10-score_disclosed,helicase,A
+v2-p5-r10-score_disclosed,mutation,A
+v2-p5-r10-score_disclosed,ribosome,A
+v2-p5-r2-score_disclosed,helicase,A
+v2-p5-r2-score_disclosed,mutation,A
+v2-p5-r2-score_disclosed,ribosome,N
+v2-p5-r3-score_disclosed,helicase,A
+v2-p5-r4-score_disclosed,helicase,A
+v2-p5-r5-score_disclosed,helicase,A
+v2-p5-r5-score_disclosed,mutation,A
+v2-p5-r5-score_disclosed,ribosome,N
+v2-p5-r6-score_disclosed,helicase,A
+v2-p5-r7-score_disclosed,helicase,A
+v2-p5-r7-score_disclosed,mutation,A
+v2-p5-r7-score_disclosed,ribosome,A
+v2-p5-r8-score_disclosed,helicase,A
+v2-p5-r8-score_disclosed,mutation,A
+v2-p5-r8-score_disclosed,ribosome,A
+v2-p5-r9-score_disclosed,helicase,A
+v2-p5-r9-score_disclosed,mutation,A
+v2-p5-r9-score_disclosed,ribosome,N
+v2-p6-r10-score_disclosed,seismic waves,A
+v2-p6-r10-score_disclosed,volcanoes,A
+v2-p6-r9-score_disclosed,seismic waves,A
+v2-p6-r9-score_disclosed,volcanoes,A
+v2-p7-r10-score_disclosed,reinforcement learning,A
+v2-p7-r10-score_disclosed,transformers,A
+v2-p7-r3-score_disclosed,reinforcement learning,A
+v2-p7-r3-score_disclosed,transformers,A
+v2-p7-r3-score_disclosed,overfitting,B
+v2-p7-r4-score_disclosed,transformers,A
+v2-p7-r5-score_disclosed,reinforcement learning,A
+v2-p7-r5-score_disclosed,transformers,A
+v2-p7-r6-score_disclosed,reinforcement learning,B
+v2-p7-r6-score_disclosed,transformers,B
+v2-p7-r6-score_disclosed,overfitting,B
+v2-p7-r7-score_disclosed,reinforcement learning,A
+v2-p7-r7-score_disclosed,transformers,A
+v2-p7-r8-score_disclosed,reinforcement learning,A
+v2-p7-r8-score_disclosed,transformers,A
+v2-p7-r8-score_disclosed,overfitting,B
+v2-p7-r9-score_disclosed,reinforcement learning,A
+v2-p7-r9-score_disclosed,transformers,A
+v2-p8-r1-score_disclosed,printing press,A
+v2-p8-r2-score_disclosed,printing press,A
+v2-p8-r3-score_disclosed,printing press,A
+v2-p8-r3-score_disclosed,Medici,A
+v2-p8-r3-score_disclosed,Florence,A
+v2-p8-r8-score_disclosed,printing press,A
+v2-p8-r8-score_disclosed,Medici,A
+v2-p8-r8-score_disclosed,Florence,A
+v2-p8-r9-score_disclosed,printing press,A
+v2-p8-r9-score_disclosed,Medici,A
+v2-p8-r9-score_disclosed,Florence,A
+v2-p9-r6-score_disclosed,smallpox,A
+v2-p9-r6-score_disclosed,booster,A
+v2-p9-r6-score_disclosed,adjuvant,A
