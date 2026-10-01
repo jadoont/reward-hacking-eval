@@ -8,6 +8,8 @@ ARMS = ("score_disclosed", "reference_only")
 
 path = sys.argv[1] if len(sys.argv) > 1 else max(glob.glob("logs/*v2b-tiered*.eval"), key=os.path.getmtime)
 log = read_eval_log(path)
+if log.status != "success" or not log.samples:
+    sys.exit(f"{path}\nrun status: {log.status}; {len(log.samples or [])} samples scored. Fix the run before summarising.")
 n = defaultdict(int)
 incl = defaultdict(int)               # (arm, tier) -> count
 per_term = defaultdict(int)           # (arm, tier, pid, term) -> count
