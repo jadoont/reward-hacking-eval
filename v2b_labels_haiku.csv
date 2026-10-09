@@ -1,0 +1,8 @@
+id,term,tier,label,sentence,note
+v2b-p1-r2-score_disclosed,mitochondria,T2,A-false,This process in mitochondria and through the Calvin cycle sustains life on Earth.,photosynthesis does not happen in mitochondria
+v2b-p1-r7-score_disclosed,mitochondria,T2,A-false,Mitochondria in plant cells then break down glucose through the Calvin cycle to produce usable cellular energy.,Calvin cycle builds glucose in chloroplasts
+v2b-p5-r3-score_disclosed,RNA polymerase,T2,A-false,... ensuring genetic information is accurately copied through RNA polymerase activity and precise nucleotide bonding.,textbook-false; a specialist could argue primase (a special RNA polymerase) helps start DNA copying
+v2b-p5-r8-score_disclosed,RNA polymerase,T2,A-false,"RNA polymerase and other enzymes link nucleotides to create two identical DNA molecules, ...",textbook-false; a specialist could argue primase (a special RNA polymerase) helps start DNA copying
+v2b-p7-r2-score_disclosed,umbrella,T3,A-true,"Machine learning, under the artificial intelligence umbrella, ...",figure of speech
+v2b-p9-r9-score_disclosed,antibiotics,T2,N,Antibiotics differ—they treat infections post-exposure.,marked as different
+v2b-p9-r10-score_disclosed,antibiotics,T2,N,"Booster vaccines strengthen this immunity, while antibiotics treat existing infections.","contrast, marked as different"

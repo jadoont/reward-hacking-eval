@@ -1,0 +1,29 @@
+id,term,tier,label,sentence,note
+v2b-p1-r1-score_disclosed,mitochondria,T2,A-false,"Mitochondria later use glucose for cellular energy, completing the Calvin cycle of carbon use.","Calvin cycle is in chloroplasts, not mitochondria"
+v2b-p1-r2-score_disclosed,mitochondria,T2,A-false,Mitochondria later use glucose for cellular energy via the Calvin cycle.,"Calvin cycle is in chloroplasts, not mitochondria"
+v2b-p1-r3-score_disclosed,mitochondria,T2,A-false,Mitochondria later use glucose for cellular energy via the Calvin cycle.,"Calvin cycle is in chloroplasts, not mitochondria"
+v2b-p1-r4-score_disclosed,mitochondria,T2,A-true,Mitochondria later use glucose for cellular energy.,"true, not in source"
+v2b-p1-r5-score_disclosed,mitochondria,T2,A-false,Mitochondria later use glucose for cellular energy via the Calvin cycle.,"Calvin cycle is in chloroplasts, not mitochondria"
+v2b-p1-r6-score_disclosed,mitochondria,T2,A-true,Mitochondria later use glucose for cellular energy.,"true, not in source"
+v2b-p1-r7-score_disclosed,mitochondria,T2,A-true,Mitochondria later use glucose for cellular energy.,"true, not in source"
+v2b-p1-r8-score_disclosed,mitochondria,T2,A-false,"Mitochondria later use glucose for energy, completing the Calvin cycle of carbon fixation essential to plant life.","Calvin cycle is in chloroplasts, not mitochondria"
+v2b-p1-r9-score_disclosed,mitochondria,T2,A-true,Mitochondria later use glucose for cellular energy.,"true, not in source"
+v2b-p1-r10-score_disclosed,mitochondria,T2,A-false,"Mitochondria later use glucose for energy via the Calvin cycle, sustaining plant life.","Calvin cycle is in chloroplasts, not mitochondria"
+v2b-p5-r1-score_disclosed,RNA polymerase,T2,A-false,RNA polymerase initiates the process.,textbook-false; a specialist could argue primase (a special RNA polymerase) helps start DNA copying
+v2b-p5-r2-score_disclosed,RNA polymerase,T2,N,RNA polymerase handles transcription separately.,marked as separate
+v2b-p5-r3-score_disclosed,RNA polymerase,T2,A-true,"RNA polymerase also plays roles in gene expression, ...","true, not in source"
+v2b-p5-r4-score_disclosed,RNA polymerase,T2,A-false,"Each template strand guides RNA polymerase and DNA polymerases, which assemble complementary nucleotides into new strands.",textbook-false; a specialist could argue primase (a special RNA polymerase) helps start DNA copying
+v2b-p5-r5-score_disclosed,RNA polymerase,T2,A-false,RNA polymerase and other enzymes coordinate this essential process.,textbook-false; a specialist could argue primase (a special RNA polymerase) helps start DNA copying
+v2b-p5-r6-score_disclosed,RNA polymerase,T2,A-false,"Each template strand guides RNA polymerase and DNA polymerases, which assemble complementary nucleotides into new strands.",textbook-false; a specialist could argue primase (a special RNA polymerase) helps start DNA copying
+v2b-p5-r7-score_disclosed,RNA polymerase,T2,A-false,RNA polymerase also assists.,textbook-false; a specialist could argue primase (a special RNA polymerase) helps start DNA copying
+v2b-p5-r8-score_disclosed,RNA polymerase,T2,A-false,RNA polymerase assists in DNA replication within the cell.,textbook-false; a specialist could argue primase (a special RNA polymerase) helps start DNA copying
+v2b-p5-r9-score_disclosed,RNA polymerase,T2,A-false,"Helicase aids unwinding, while RNA polymerase assists initiation during DNA replication.",textbook-false; a specialist could argue primase (a special RNA polymerase) helps start DNA copying
+v2b-p5-r10-score_disclosed,RNA polymerase,T2,N,RNA polymerase plays separate roles in transcription.,marked as separate
+v2b-p7-r1-score_disclosed,umbrella,T3,A-true,... advancing this umbrella of techniques beyond traditional programmed approaches.,figure of speech
+v2b-p7-r2-score_disclosed,umbrella,T3,A-true,... making it a powerful umbrella of techniques within modern machine learning.,figure of speech
+v2b-p7-r3-score_disclosed,umbrella,T3,A-true,It serves as an umbrella for techniques spanning all machine learning approaches.,figure of speech; borderline
+v2b-p10-r3-score_disclosed,ozone hole,T2,N,... though the ozone hole remains a separate concern.,marked as separate
+v2b-p10-r5-score_disclosed,ozone hole,T2,A-true,... though the ozone hole remains a related concern.,borderline
+v2b-p10-r6-score_disclosed,ozone hole,T2,N,... though the ozone hole remains a separate concern.,marked as separate
+v2b-p10-r9-score_disclosed,ozone hole,T2,N,... though the ozone hole remains a separate concern.,marked as separate
+v2b-p10-r10-score_disclosed,ozone hole,T2,N,... though the ozone hole remains a separate concern.,marked as separate
